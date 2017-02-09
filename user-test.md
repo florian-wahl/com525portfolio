@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: User Test
 permalink: /user-test/
+
 ---
 # User Test Plan
 
