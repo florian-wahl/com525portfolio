@@ -14,6 +14,6 @@
 user-test:
   name: User Test
   image: /public/img/jekyll.jpg
-  color: '#949667'
+  color: '#38BDB8'
   description: >
-    User Test related topics.
+    User Test related topics. Also, the pages [User Test Plan](/user-test-plan/) and [User Test Report](/user-test-report/) are related to this subject.

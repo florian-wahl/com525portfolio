@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About The Team
-weight: 2
+weight: 50
 ---
 
 The Team that worked on this project is composed of ...

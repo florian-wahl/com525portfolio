@@ -34,7 +34,7 @@
   {% endif %}
 
   <hr/>
-
+{% if include.hide_content != true %}
   {{ post.content }}
-
+{% endif %}
 </article>
