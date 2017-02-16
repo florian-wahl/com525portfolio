@@ -28,7 +28,7 @@ sidebar_tags:        []
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/nap.jpg
-color:               '#38BDB8'
+color:               '#008E88'
 
 # Fonts
 font:                'Lato, sans-serif'

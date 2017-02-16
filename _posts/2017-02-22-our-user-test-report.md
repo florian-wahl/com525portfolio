@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'User testing with Guillaume B.'
+title: 'Our User Test Report is Online!'
 tags: [user-test]
 description: >
-  One iteration of the User Test on the user Guillaume
+  The User Test Report summarizing the results of the 4 user tests we did is online. Follow [this link](/user-test-report/) to access it or use the navigation bar.
 ---
 **Author**: Florian W.
 
 ## Pre-Questions
-Guillaume is a graduate student at IIT. He is also the Co-Founder of a Startup called [HubRoad](http://hubroad.io/). These two activities take the majority of his time.
+Guillaume is a graduate student at IIT. He is also the Co-Founder of a Start-up called [HubRoad](http://hubroad.io/). These two activities take the majority of his time.
 
 He spend a lot of his free time _using his phone_ (approx. 40% of the time). Out of this time, 70% is for **web browsing** and the rest is  for **apps** usage.
 Mainly, Guillaume uses _News App_ and his favorite app is _Google Maps_.
