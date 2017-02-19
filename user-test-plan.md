@@ -5,16 +5,17 @@ weight: 1
 ---
 Your user test plan is due **Monday, Feb 6** _before class_. The required components of the plan are
 
-- goals
-- research questions
-- participant characteristics
-- test script (what will the moderator say)
-- task list
-- data and evaluation measures
+## Table of Contents
+* [Goals](#1)
+* [Research questions](#2)
+* [Participant characteristics](#3)
+* [Test script](#4)
+* [Task list](#5)
+* [Data and evaluation measures](#6)
 
 **The system** : GrubHub iOS app
 
-## Goals
+## <span id="1">Goals</span>
 
 Improve the process of users making orders via the application (e.g. by providing more information about a dish).
 
@@ -22,7 +23,7 @@ Improving the process/Increasing the number of users ordering unknow dish via th
 
 Making the process more transparent between customer and restaurant proprietor.
 
-## Research Questions
+## <span id="2">Research Questions</span>
 
 - Do users know what they are ordering? How do users figure out what a particular dish looks like?
 - How would a user find information concerning a dish?
@@ -33,7 +34,7 @@ Making the process more transparent between customer and restaurant proprietor.
 - How easily users find the total ordering process? How is the length of time they spend during ordering process?
 - Do final orders match user original expectations?
 
-## Participant Characteristics
+## <span id="3">Participant Characteristics</span>
 
 - Age
 - Gender
@@ -41,15 +42,15 @@ Making the process more transparent between customer and restaurant proprietor.
 - Experience of use
 
 
-
-### Potential users
+**Potential users**
 
 - Know how to use a smartphone.
 - Typically, they are busy, in a rush, they don&#39;t have the time to pick food by themselves.
 
-## Test Script
 
-**Participation Introduction + Consent**
+## <span id="4">Test Script</span>
+
+### Participation Introduction & Consent
 
 Hi, everyone!  My name is [_name_], and this is [_other person present_], they will be responsible for the recordings during this trial.
 
@@ -61,11 +62,11 @@ We would like at this time to make you aware that what you say and do will be re
 
 Thank you for agreeing to participate in our research study today. We&#39;re working on the design for the mobile application GrubHub, and during the session, we&#39;ll ask you several specific questions to test which elements or functions could further be improved upon.
 
-**Explain any equipment:**
+### Explain any equipment:
 
 Our test device is an iPhone 6, and it will be put in front of you before we begin the trail. GrubHub is an online and mobile food-ordering application, and it has been already been pre-installed onto the testing device. We will ask you to use the GrubHub application yourself in the session.
 
-**Pre questions:**
+### Pre questions:
 
 - Do you have any questions so far?
 
@@ -79,7 +80,7 @@ OK. Before we look at the application, I&#39;d like to ask you just a few quick 
 
 OK, great. We&#39;re done with the questions and we can start introducing our tasks.
 
-**Introduce tasks:**
+### Introduce tasks:
 
 We have all together 7 tasks, and I&#39;ll give them to you one at a time.
 
@@ -97,19 +98,19 @@ We will begin our first task now.
 [_Task #7_]
 This is our last task.
 
-**Task completion and questionnaire :**
+### Task completion and questionnaire :
 
 Thank you. We have completed all tasks.
 
 I have a brief questionnaire here that I&#39;d like you to complete. The information you provide is for our use only. Your name is not stored with the questionnaire data.
 
-**Debrief:**
+### Debrief:
 
 Once again, I&#39;d like to say thanks for coming today. Your efforts help us to improve the GrubHub application.
 
 Do you have any questions or comments for our test now that we&#39;re done?
 
-Tasks List
+### <span id="5">Tasks List</span>
 
 **Scenario** : It is dinner time. You are at the point where you are hungry, but at the same time you are really busy, and simply do not have the time to pick up some food. You decide the best route would be to order food for delivery. To do so, you pickup your smartphone and load up the GrubHub app.
 
@@ -123,7 +124,7 @@ Tasks List
 | 6 | Choose one you would buy | -- Why this decision?|
 | 7 | Repeat the same with dishes you  are not familiar with (each in different cuisines)| -- Walk us through you decision making <br> -- What information triggered the decision?|
 
-## Data &amp; Evaluations measures
+## <span id="6">Data &amp; Evaluations measures</span>
 
 In order to answer the research questions, we will collect both performance and preference data during the test sessions:
 

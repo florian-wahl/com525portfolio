@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://qwtel.com
+url:                 ''
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
@@ -27,8 +27,8 @@ description:         >
 sidebar_tags:        []
 
 # Fallback image and color if not overwritten for tag or post
-image:               /public/img/nap.jpg
-color:               '#008E88'
+image:               /public/img/grubhub_logo_animation.gif
+color:               '#F63340'
 
 # Fonts
 font:                'Lato, sans-serif'

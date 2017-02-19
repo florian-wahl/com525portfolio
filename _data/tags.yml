@@ -13,7 +13,7 @@
 
 user-test:
   name: User Test
-  image: /public/img/jekyll.jpg
-  color: '#38BDB8'
+  image: /public/img/grubhub_logo_animation.gif
+  color: '#F63340'
   description: >
     User Test related topics. Also, the pages [User Test Plan](/user-test-plan/) and [User Test Report](/user-test-report/) are related to this subject.
