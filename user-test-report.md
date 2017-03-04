@@ -35,7 +35,7 @@ Your user test plan is due **Wednesday, Feb 22** _before class_.
 This report focuses on the user testing of the GrubHub mobile application. GrubHub is a Chicago based company, founded in 2004.
 
 
-According to [GrubHub’s website](https://www.grubhub.com/): ＊“Grubhub is the nation's leading online and mobile food ordering company dedicated to connecting hungry diners with local takeout restaurants. The company’s online and mobile ordering platforms allow diners to order directly from more than 50,000 takeout restaurants in over 1,100 U.S. cities and London. Every order is supported by the company’s 24/7 customer service teams. Grubhub has offices in Chicago, New York and London.”＊
+According to [GrubHub’s website](https://www.grubhub.com/):*“Grubhub is the nation's leading online and mobile food ordering company dedicated to connecting hungry diners with local takeout restaurants. The company’s online and mobile ordering platforms allow diners to order directly from more than 50,000 takeout restaurants in over 1,100 U.S. cities and London. Every order is supported by the company’s 24/7 customer service teams. Grubhub has offices in Chicago, New York and London.”*
 
 This mobile application allow users to order food for delivery. The selection of restaurants and food is based on their location. The app offers different filters that help users by narrowing down the selection of available restaurants by their prefered food or cuisine. The users can then place the order directly from his or her smartphone or computer to be delivered.
 
@@ -162,7 +162,7 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 - (Boulanger) No problems to complete this task
 
--(Boulanger) Users used the cuisine button to select a known cuisine, then narrowed down the results using filters, and finally selected one of the first rated restaurant and picked a dish
+- (Boulanger) Users used the cuisine button to select a known cuisine, then narrowed down the results using filters, and finally selected one of the first rated restaurant and picked a dish
 
 - (Boulanger) Only check the ratings, not the reviews
 
@@ -305,6 +305,13 @@ Recommendations
 
 Based on what we saw, the results of the user test, and the feedback of the participants, our team recommends the following:
 
+Based on what we saw, the results of the user test, and the feedback of the participants, our team recommends the following:
+
+| **Location/Feature** | **Object/Screenshot** | **Observation/Data** | **Severity**| **Recommendation** |
+| --- | --- | --- | --- | --- |
+| | Items | Users struggle to find description on the different dishes | **High** | Add more detailed descriptions like pictures of the dishes |
+| | Reviews | No pictures are available to “introduce” unfamiliar dishes | **High** | Emphasize the reviews with pictures. Allow users to link a review to a specific dish. |
+| | List | Too much items | **Medium** | Use table instead |
 
 # 8. <span id="8">Conclusion</span>
 
