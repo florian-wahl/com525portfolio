@@ -103,11 +103,11 @@ The complete plan can be found on our portfolio:[User Test Plan](https://florian
 
 The participants have been selected based on the criteria defined in the user test plan. We will provide a description of our participants in the following section. Only three characteristics are relevant: 
 
-－ **Frequency of use**: how often does the participant uses his or her smartphone, expressed in a percentage of the free time; 
+- **Frequency of use**: how often does the participant uses his or her smartphone, expressed in a percentage of the free time; 
 
-－ **Experience of use**: what experience does the participant have with a smartphone, ranked between “low” (almost none) and “high” (savvy);
+- **Experience of use**: what experience does the participant have with a smartphone, ranked between “low” (almost none) and “high” (savvy);
 
-－ **Profile**: what are the participant main occupation in life (ie. is the participant often in a rush)
+- **Profile**: what are the participant main occupation in life (ie. is the participant often in a rush)
 
 These three are summarized at the end of this section. The other characteristics allow us to have more background but are not relevant to the completion of the test.
 
