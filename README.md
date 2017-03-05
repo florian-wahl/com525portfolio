@@ -3,10 +3,10 @@
 ## The project
 
 ## The Team
-- [Florain Wahl](https://github.com/florian-wahl) fwahl@hawk.iit.edu
-- [Qi Zhang](https://github.com/QiZhang79) qzhang79@hawk.iit.edu
-- [Tracy Franchize](https://github.com/Franchize) tfranci2@hawk.iit.edu
-- [Jason Hedlund](https://github.com/jasonhedlund) jhedlund@hawk.iit.edu
+- [Florain Wahl](https://github.com/florian-wahl)   (email: fwahl@hawk.iit.edu)
+- [Qi Zhang](https://github.com/QiZhang79)  (email: qzhang79@hawk.iit.edu)
+- [Tracy Franchize](https://github.com/Franchize)  (email: tfranci2@hawk.iit.edu)
+- [Jason Hedlund](https://github.com/jasonhedlund)  (email: jhedlund@hawk.iit.edu)
 
 ## The Framework: Jekyll
 
