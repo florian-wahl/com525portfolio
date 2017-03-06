@@ -25,8 +25,8 @@ Your user test plan is due **Wednesday, Feb 22** _before class_.
    1. [Overall Task Completion](#5-1)
    2. [Results by tasks](#5-2)
    3. [Errors](#5-3)
-   4. [Overall Ratings/Metrics](#5-4)
-   5. [Participants Feedback](#5-5)
+   4. [Participants’ Feedback, Likes, Dislikes, & Recommendations](#5-4)
+   5. [Summary](#5-5)
 6. [Recommendations](#6)
 7. [Conclusion](#7)
 
@@ -157,6 +157,16 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 - (Kayla) Seemed simple to use at first, but the interface was a bit overwhelming and misguided
 
 - (Kayla) Could not search for restaurants locally, so had to switch to Chicago, specifically IIT
+
+| **Name** | **Results** |
+| --- | --- |
+| Boulanger | - No problems to understand the way to use the application
+<br> - Navigation through the menus, tabs, and filters |
+| Nunes | - First impression of the usability of the app wasn’t intimidating |
+| Jie | - Quickly learned the basic operations on GrubHub <br> - Found two unfriendly designs and one surprise. |
+| Kayla | - Seemed simple to use at first, but the interface was a bit overwhelming and misguided <br> - Could not search for restaurants locally, so had to switch to Chicago, specifically IIT |
+
+
 
 **Task #2**: *Pick a dish you are familiar with, find a restaurant that provides the dish you are looking for, and find out how much the entire order will cost you.*
 
@@ -290,7 +300,7 @@ Recommendations
 
 - Add way to search type of food within or outside the application (Database, Search Engine)
 
-# 6. <span id="6">Summary</span>
+## 5.5. <span id="6">Summary</span>
 
 | **Tasks** | **Results** | **Errors/Problems** | **Comments** |
 | --- | --- | --- | --- |
@@ -301,7 +311,7 @@ Recommendations
 | #5 | Users selected without any issues three dishes they were familiar with. | | This task was longer than the other ones. |
 | #6 | Criteria varies from a participant to another (delivery time, price) |  |  |
 
-# 7. <span id="7">Recommendations</span>
+# 6. <span id="7">Recommendations</span>
 
 Based on what we saw, the results of the user test, and the feedback of the participants, our team recommends the following:
 
@@ -313,7 +323,7 @@ Based on what we saw, the results of the user test, and the feedback of the part
 | | Reviews | No pictures are available to “introduce” unfamiliar dishes | **High** | Emphasize the reviews with pictures. Allow users to link a review to a specific dish. |
 | | List | Too much items | **Medium** | Use table instead |
 
-# 8. <span id="8">Conclusion</span>
+# 7. <span id="8">Conclusion</span>
 
 GrubHub provides most basic functions as a food-delivery application and it is not too difficult for users to find the information they need either within in the application or outside via sources such as Google, Yelp, or the restaurant's webpage. However, GrubHub is not outstanding, because in most of our cases it did not leave a strong positive impression on our users being tested which means other users can and will choose other applications to substitute it. Some functions still need improvements, like user confusion over names of unfamiliar dishes, too many options before adding one dish into the shopping cart or overall user information overload, reviews are not easy in all cases to find and read, visual and textual information in the restaurants menus are not always provided where it would be beneficial to the user. 
 
