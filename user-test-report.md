@@ -144,24 +144,9 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 **Task #1**: *Spend about 5 minutes playing with the app and get used to it and explain to us what you think of it and the conveniences that this app provides. Who do you think GrubHub is made for?*
 
-- (Boulanger) No problems to understand the way to use the application
-
-- (Boulanger) Navigation through the menus, tabs, and filters
-
-- (Nunes) First impression of the usability of the app wasn’t intimidating 
-
-- (Jie) Quickly learned the basic operations on GrubHub.
-
-- (Jie) Found two unfriendly designs and one surprise.
-
-- (Kayla) Seemed simple to use at first, but the interface was a bit overwhelming and misguided
-
-- (Kayla) Could not search for restaurants locally, so had to switch to Chicago, specifically IIT
-
 | **Name** | **Results** |
 | --- | --- |
-| Boulanger | - No problems to understand the way to use the application
-<br> - Navigation through the menus, tabs, and filters |
+| Boulanger | - No problems to understand the way to use the application <br> - Navigation through the menus, tabs, and filters |
 | Nunes | - First impression of the usability of the app wasn’t intimidating |
 | Jie | - Quickly learned the basic operations on GrubHub <br> - Found two unfriendly designs and one surprise. |
 | Kayla | - Seemed simple to use at first, but the interface was a bit overwhelming and misguided <br> - Could not search for restaurants locally, so had to switch to Chicago, specifically IIT |
@@ -170,88 +155,53 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 **Task #2**: *Pick a dish you are familiar with, find a restaurant that provides the dish you are looking for, and find out how much the entire order will cost you.*
 
-- (Boulanger) No problems to complete this task
-
-- (Boulanger) Users used the cuisine button to select a known cuisine, then narrowed down the results using filters, and finally selected one of the first rated restaurant and picked a dish
-
-- (Boulanger) Only check the ratings, not the reviews
-
-- (Nunes) Phase One: User inputs home address first, as she always does, searches for a cuisine she’s familiar with, searches for a restaurant that delivers
-
-- (Nunes) Phase two: Final, from the menu, she searches for the dishes that contains lamb by selecting the lamb item
-
-- (Jie) She did not use filters function, directly finding dish in the searching bar.
-
-- (Jie) It took her a while to hesitate choosing a result after she searched, considering coupon, price and ratings. At last, she chose one with medium price but high rating.
-
-- (Kayla) Searched for burger in search bar, and was not aware or acknowledged cuisine button or filters
-
-- (Kayla) Did not consider ratings or reviews, more or less just wanted to pick something that appealed based on restaurant name
-
-- (Kayla) Wanted to change order and restaurant since order was too expensive
+| **Name** | **Results** |
+| --- | --- |
+| Boulanger | - No problems to complete this task <br> - Users used the cuisine button to select a known cuisine, then narrowed down the results using filters, and finally selected one of the first rated restaurant and picked a dish <br> - Only check the ratings, not the reviews |
+| Nunes | - Phase One: User inputs home address first, as she always does, searches for a cuisine she’s familiar with, searches for a restaurant that delivers <br> -  Phase two: Final, from the menu, she searches for the dishes that contains lamb by selecting the lamb item |
+| Jie | - She did not use filters function, directly finding dish in the searching bar. <br> - It took her a while to hesitate choosing a result after she searched, considering coupon, price and ratings. At last, she chose one with medium price but high rating. |
+| Kayla | - Searched for burger in search bar, and was not aware or acknowledged cuisine button or filters <br> -  Did not consider ratings or reviews, more or less just wanted to pick something that appealed based on restaurant name <br> - Wanted to change order and restaurant since order was too expensive |
+ 
 
 **Task #3**: *Find a dish that you are not familiar with, or was recommended from a food genre that you never had.*
 
-- (Boulanger) Referred to an unknown cuisine (using the menu of the same name)
+| **Name** | **Results** |
+| --- | --- |
+| Boulanger | - Referred to an unknown cuisine (using the menu of the same name) <br> - Only look at the most popular dishes when the cuisine is unfamiliar, having all the menus is useless |
+| Nunes | -  Phase one: Goes thru phase one of task two expect selects a cuisine shent familiar with <br> - Phase two: searches thru most popular dishes and reads description for ingredients she likes and that she can visualize <br> -- She prefers the convenience of a picture of the dish, instead of googling for it |
+| Jie | - She swiped in the home page and found an unfamiliar type of cuisine. <br> - She was confused with some unfamiliar name of dishes, she could not know what they were when there was little picture or ingredient information. <br> -  She chose one unfamiliar food because of the descriptions and picture. She thought these information were more reliable than pure name. She also paid attention to the reviews. <br> - She didn’t use google to find each unfamiliar dishes, because it was time-consuming.  |
+| Kayla | - Unaware of cuisine options in app, thought of Taiwanese, and searched through the search bar <br> - Did not know or could find description of dish, and had to use Google or another outside source to get visual representation <br> - Chose food purely off of novelty, reviews or description had no influence  |
 
-- (Boulanger) Only look at the most popular dishes when the cuisine is unfamiliar, having all the menus is useless
-
-- (Nunes) Phase one: Goes thru phase one of task two expect selects a cuisine shent familiar with
-
-- (Nunes) Phase two: searches thru most popular dishes and reads description for ingredients she likes and that she can visualize
-She prefers the convenience of a picture of the dish, instead of googling for it
-
-- (Jie) She swiped in the home page and found an unfamiliar type of cuisine.
-
-- (Jie) She was confused with some unfamiliar name of dishes, she could not know what they were when there was little picture or ingredient information.
-
-- (Jie) She chose one unfamiliar food because of the descriptions and picture. She thought these information were more reliable than pure name. She also paid attention to the reviews.
-
-- (Jie) She didn’t use google to find each unfamiliar dishes, because it was time-consuming.
-
-- (Kayla) Unaware of cuisine options in app, thought of Taiwanese, and searched through the search bar
-
-- (Kayla) Did not know or could find description of dish, and had to use Google or another outside source to get visual representation
-
-- (Kayla) Chose food purely off of novelty, reviews or description had no influence
 
 **Task #4**: *Figure out what the dish looks like within and outside the app.*
 
-- (Boulanger) Users don’t know how to do
-
-- (Boulanger) No easy way to find out, no way to find out into the app
-
-- (Boulanger) Would use search engines like Google
-
-- (Nunes) Has no problem with using Safari to search for dish outside of app, but prefer if she could open a web browser within the app or be able to copy text within app
-
-- (Nunes) Wishes there were pictures of the dish added to the app on the page of the dish
-
-- (Jie) She had negative attitudes toward this task
+| **Name** | **Results** |
+| --- | --- |
+| Boulanger | - Users don’t know how to do <br> -  No easy way to find out, no way to find out into the app <br> - Would use search engines like Google  |
+| Nunes | - Has no problem with using Safari to search for dish outside of app, but prefer if she could open a web browser within the app or be able to copy text within app <br> - Wishes there were pictures of the dish added to the app on the page of the dish |
+| Jie | -  She had negative attitudes toward this task
 She could not copy the name of unfamiliar food 
-She thought it was time-consuming and complex to use a third-party application to figure out what the unfamiliar food looked like. 
-
-- (Kayla) Confused since there was no way to get description inside of the application
-
-- (Kayla) Did not feel confident enough to place order since there was not enough detail when trying to pick something she had never ordered before
-
-- (Kayla) Suggested that there should be a link to their menu for descriptions and pictures of food inside the application
+She thought it was time-consuming and complex to use a third-party application to figure out what the unfamiliar food looked like.  |
+| Kayla | - Confused since there was no way to get description inside of the application <br> - Did not feel confident enough to place order since there was not enough detail when trying to pick something she had never ordered before <br> - Suggested that there should be a link to their menu for descriptions and pictures of food inside the application |
 
 **Task #5**: *Pick three different dishes you are familiar with (each in different cuisines)*
 
-- (Nunes)She picks the dishes that taste good, are crowd pleasers, and taste the same across different restaurants  
-- (Jie) Behaved proficiently in this task and added three familiar food in the shopping cart successfully.
-- (Jie) This task had many processes, and she presented a little bit impatience at last few steps.
-- (Kayla) Easy task, simply searched for food items that she would not have to go out of her comfort zone to order
-- (Kayla) Found restaurants she was familiar with and trusted, rather than depend on reviews and descriptions
+| **Name** | **Results** |
+| --- | --- |
+| Boulanger |  |
+| Nunes | - She picks the dishes that taste good, are crowd pleasers, and taste the same across different restaurants   |
+| Jie | -  Behaved proficiently in this task and added three familiar food in the shopping cart successfully.<br> - This task had many processes, and she presented a little bit impatience at last few steps. |
+| Kayla | - Easy task, simply searched for food items that she would not have to go out of her comfort zone to order <br> - Found restaurants she was familiar with and trusted, rather than depend on reviews and descriptions |
 
 **Task #6**: *Choose one you would buy*
 
-- (Nunes) Chooses Pizza bc crowd pleaser, easy to warm up, quick delivery
+| **Name** | **Results** |
+| --- | --- |
+| Boulanger |   |
+| Nunes |  - Chooses Pizza bc crowd pleaser, easy to warm up, quick delivery  |
+| Jie | － She compared three dishes in the shopping cart and ultimately chose the nearest one, because she mentioned that this task happened at night and she was hungry.  She wanted to receive the food as soon as possible. |
+| Kayla | － Explained it was the safest, and cheapest option |
 
-- (Jie) She compared three dishes in the shopping cart and ultimately chose the nearest one, because she mentioned that this task happened at night and she was hungry.  She wanted to receive the food as soon as possible.
-
-- (Kayla) Explained it was the safest, and cheapest option
 
 ## 5.3. <span id="5-3">Errors</span>
 
