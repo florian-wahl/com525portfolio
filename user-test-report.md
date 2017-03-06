@@ -179,9 +179,7 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 | --- | --- |
 | Boulanger | - Users don’t know how to do <br> -  No easy way to find out, no way to find out into the app <br> - Would use search engines like Google  |
 | Nunes | - Has no problem with using Safari to search for dish outside of app, but prefer if she could open a web browser within the app or be able to copy text within app <br> - Wishes there were pictures of the dish added to the app on the page of the dish |
-| Jie | -  She had negative attitudes toward this task
-She could not copy the name of unfamiliar food 
-She thought it was time-consuming and complex to use a third-party application to figure out what the unfamiliar food looked like.  |
+| Jie | -  She had negative attitudes toward this task. She could not copy the name of unfamiliar food. She thought it was time-consuming and complex to use a third-party application to figure out what the unfamiliar food looked like. |
 | Kayla | - Confused since there was no way to get description inside of the application <br> - Did not feel confident enough to place order since there was not enough detail when trying to pick something she had never ordered before <br> - Suggested that there should be a link to their menu for descriptions and pictures of food inside the application |
 
 **Task #5**: *Pick three different dishes you are familiar with (each in different cuisines)*
