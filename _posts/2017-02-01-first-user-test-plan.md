@@ -7,8 +7,6 @@ description: >
   We added our test plan. Follow [this link](https://florian-wahl.github.io/com525portfolio/user-test-plan/) to see it.
 ---
 
-Your user test plan is due **Monday, Feb 6** _before class_. The required components of the plan are
-
 ## Table of Contents
 * [Goals](#1)
 * [Research questions](#2)
