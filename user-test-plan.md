@@ -3,7 +3,6 @@ layout: page
 title: User Test Plan
 weight: 1
 ---
-Your user test plan is due **Monday, Feb 6** _before class_. The required components of the plan are
 
 ## Table of Contents
 * [Goals](#1)
