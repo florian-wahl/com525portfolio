@@ -21,4 +21,4 @@ jhedlund@hawk.iit.edu
 
 fwahl@hawk.iit.edu
 
-![Team image](https://drive.google.com/drive/u/1/folders/0B9W2s5YdBYbtdXJRSUY2cDUxaE0)
+![Team picture](https://github.com/florian-wahl/com525portfolio/blob/master/public/img/teampic.jpg)
