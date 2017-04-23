@@ -8,7 +8,6 @@ weight: 50
 <h1> Competitive Analysis Report </h1>
 <br>
 To realize this competitive analysis report we decided to focus on the “Search process” of GrubHub. For the competitions, we choose Eat24, UberEATS as GrubHub’s direct competitors and Groupon as indirect competitor. We compared the features around the “Search process” of these different products and here below are the results. 
----
 </center>
 
 
@@ -24,31 +23,31 @@ To realize this competitive analysis report we decided to focus on the “Search
 GrubHub has two types of competitors: **direct competitors** which provide the same service (ie. food delivery) and **indirect competitors** which can be a substitute of the service proposed by GrubHub (eg. different markets, value proposition).
 
 - **Direct Competitors**
--- UberEATS
--- Amazon restaurant
--- Delivery
--- Yelp Eat24
--- Caviar 
--- Groupon To Go
--- Foodler
+ - UberEATS
+ - Amazon restaurant
+ - Delivery
+ - Yelp Eat24
+ - Caviar 
+ - Groupon To Go
+ - Foodler
 
 - **Indirect Competitors**
--- BlueApron
--- HelloFresh
--- Peapod 
--- Freshii
--- Food trucks
--- Direct order from specific restaurant
--- Instacard
--- Direct eating to a restaurant
--- Amazon Pantry 
--- Yelp
--- Groupon
--- HappyCow
--- OpenTable
--- Google, Yahoo, etc. (search engines) 
--- DiningIn
--- Word of mouth
+ - BlueApron
+ - HelloFresh
+ - Peapod 
+ - Freshii
+ - Food trucks
+ - Direct order from specific restaurant
+ - Instacard
+ - Direct eating to a restaurant
+ - Amazon Pantry 
+ - Yelp
+ - Groupon
+ - HappyCow
+ - OpenTable
+ - Google, Yahoo, etc. (search engines) 
+ - DiningIn
+ - Word of mouth
 
 # 2. <span id="2">Flow chart</span>
 The so called “search process” starts with the “launch the app” task and ends when the user is able to “select a dish”.
@@ -70,6 +69,7 @@ Eat24 and UberEATS provide more options for restaurants and food categories, esp
 
 - Party Menu in Eat24
 Both Eat24 and UberEATS have the “Party Menu” for people who can quickly order food for the party. This feature is tricky because the party is a crucial scenario for food delivery application. “Party Menu” recommends food suitable for big groups of people, helping them to make decisions quickly. GrubHub can replicate this feature but is not limited to "Party menu". According to the user tests and personas realized before, we can add a similar menu like “Working Lunch Menu” for people in the office needing food in a more urgent manner.
+ <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.png"  width = "60%" align=center />
 
 - What’s Good, Eye Candy, and View Informations in Eat24
 These three features (images 4.6, 4.7, 4.8) in Eat24 have one similar resource: real pictures uploaded by users. Eat24 chooses real attractive pictures, high rate reviews, and transforms them as “What’s Good” (when you’re choosing a restaurant) and “Eye Candy”(when you’re choosing dishes). It’s much more convenient for Eat24 since users can browse the reviews from Yelp here. Most users like full descriptions of foods, especially real pictures, which can help them make decisions, like figuring out what the food looks like and whether it is attractive.
@@ -80,15 +80,15 @@ These three features (images 4.6, 4.7, 4.8) in Eat24 have one similar resource: 
 - The process we studied is really similar between competitors
 - The difference we picked are interesting, but not critical from a retention point of view
 - Competitive analysis didn’t tell us a lot about the advantages or disadvantages GrubHub has compared to its competition
--- Basically, every application we studied offer the same experience without any presenting real innovation
--- Groupon, however, was a bit different from the rest, as this is an indirect competitor  
+ - Basically, every application we studied offer the same experience without any presenting real innovation
+ - Groupon, however, was a bit different from the rest, as this is an indirect competitor  
 
 # 6. <span id="6">New ideas for GrubHub</span>
 Based on what we saw, here is a short list of improvements or new features that could enhance the user experience when using GrubHub’s application:
 - Users can update the real pictures in the reviews and earn coupons.
--- Update pictures → earn points → redeem points for coupons and discounts
+ - Update pictures → earn points → redeem points for coupons and discounts
 - Add special menu like “Working Lunch Menu” based on user reviews. 
--- Example: “quick eats” or quick delivery, happy hour, or late night 
+ - Example: “quick eats” or quick delivery, happy hour, or late night 
 - Maybe asked the user, when launching the app, the reason why he or she is ordering food. Based on the answer, one idea could be to suggest restaurants/dishes that people chose in the same situation
 - Geolocation caching, whereas the user will be suggested restaurants that local people from within the business or surrounding is ordering from constantly
 - Provide additional photos of menu items
