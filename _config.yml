@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        []
 
 # Fallback image and color if not overwritten for tag or post
-image:               /public/img/grubhub_logo_animation.gif
+#image:               /public/img/grubhub_logo_animation.gif
 color:               '#F63340'
 
 # Fonts
