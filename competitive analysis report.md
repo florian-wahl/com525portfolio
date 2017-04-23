@@ -69,8 +69,8 @@ Eat24 and UberEATS provide more options for restaurants and food categories, esp
 
 - Party Menu in Eat24
 Both Eat24 and UberEATS have the “Party Menu” for people who can quickly order food for the party. This feature is tricky because the party is a crucial scenario for food delivery application. “Party Menu” recommends food suitable for big groups of people, helping them to make decisions quickly. GrubHub can replicate this feature but is not limited to "Party menu". According to the user tests and personas realized before, we can add a similar menu like “Working Lunch Menu” for people in the office needing food in a more urgent manner.
-<div aligh = center>
-![image 4.1](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/teampic.jpg = 375*688)
+<div align = center>
+![image 4.1](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.png = 375*688)
 </div>
 
 - What’s Good, Eye Candy, and View Informations in Eat24
