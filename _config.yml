@@ -20,8 +20,7 @@ paginate:            5
 paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:         >
-  A portfolio presenting the User Experience work that we realized on the GrubHub Mobile App.
+description:         ""
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        []
