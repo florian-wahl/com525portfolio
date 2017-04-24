@@ -19,7 +19,7 @@ weight: 5
 To understand GrubHub’s user profile, and to understand which features that are most needed to be improved.
 
 1. Measure how often they use the app
-2. See if they are familiar with grubhub
+2. See if they are familiar with GrubHub
 3. Understand what are the criteria taken into account during the decision process
 4. Understand how does users select dishes they aren't familiar with
 5. Investigate whether or not including visual aids such as a photos are useful when ordering food
@@ -407,11 +407,11 @@ Amazon restaurants: 12.5%</td>
 ## <span id="5">Takeaways</span>
 
 Based on the survey results, here are a few takeaways that could use GrubHub:
-- More the restaurants available, more the users use the app
-- The main reason of the users using the app is their lack of time to cook. A slight correlation exists between people being busy/working and the one ordering food for lack of time
+- More restaurants that were available, the more the users use the app
+- The main reason of the users using the app is their lack of time to cook. A slight correlation exists between people being busy/working and the person ordering food due to lack of time
 - The price is the key criteria when ordering food
 - Users order an average of three different types of cuisines
-- Almost half of the user don't/do order unfamiliar cuisines
+- There is a almost a perfect split between users who do, and do not order from unfamiliar cuisines
 - The key decision criteria when ordering unfamiliar dishes is having a picture
 - Additional information such as the taste and ingredients of a dish could also be helpful for users
 - Users left GrubHub for delivery reasons mainly
