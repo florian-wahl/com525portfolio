@@ -49,7 +49,7 @@ weight: 6
     <td>I will say that if the user were to expect the results to show a comparative list of Pad Thai dishes, then they would get confused. Instead, the user is given a list of restaurants that offer the dish.  </td>
   </tr>
 </table>
- <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.Input%20Pad%20Thai%20in%20search%20the%20bar.PNG" width="375" height="668" alt="image1"/>
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.Input%20Pad%20Thai%20in%20search%20the%20bar.PNG" style="width: 50%; margin-bottom: 2rem;">
 (image 1)
 
 <table>
@@ -79,7 +79,7 @@ weight: 6
 	<td></td>
   </tr>
   </table>
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" width="375" height="668" alt="image2"/>
+  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" style="width: 50%; margin-bottom: 2rem;">
 (image 2)
 
   <table>
@@ -107,8 +107,8 @@ weight: 6
   </tr>
   <tr>
   </table>
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" width="375" height="668" alt="image3"/>
-(image 3)
+  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="width: 50%; margin-bottom: 2rem;">
+  (image 3)
 
   <table>
   <tr>
@@ -134,10 +134,10 @@ weight: 6
 	<td>Nothing to add or change to this step. The action is pretty standard, understandable for an unfamiliar user, and the feedback is clear and redundant.</td>
   </tr>
   </table>
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" width="375" height="668" alt="image4"/>
-(image 4)
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" width="375" height="668" alt="image4.1"/>
-(image 4.1)
+  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" style="width: 50%; margin-bottom: 2rem;">
+  (image 4)
+  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 50%; margin-bottom: 2rem;">
+  (image 4.1)
 
   <table>
   <tr>
@@ -150,8 +150,6 @@ weight: 6
     <td><b>Notes</b></td>
   </tr>
   <tr>
-
-  <table>
 	<td>5</td>
 	<td>Select the Pad Thai dish<br>
 		<b> - Input pad thai into search bar</b> <br></td>
@@ -166,8 +164,8 @@ weight: 6
 	<td></td>
   </tr>
  </table>
- <img src="https://github.com/florian-wahl/com525portfolio/blob/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" width="375" height="668" alt="image4.2"/>
-(image 4.2)
+ <img src="https://github.com/florian-wahl/com525portfolio/blob/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 50%; margin-bottom: 2rem;">
+ (image 4.2)
  
 
 
