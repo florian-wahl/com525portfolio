@@ -101,9 +101,8 @@ These three features (images 4.6, 4.7, 4.8) in Eat24 have one similar resource: 
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/7.png" width="375" height="668" alt="image4.7"/>
 </div> (image4.7)
 
-<p align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/6.png" width="375" height="668" alt="image4.8"/>
-</p> (image4.8)
+(image4.8)
 
 # 5. <span id="5">Summary</span>
 - Competitors have slightly different features  for providing the “search process” but it’s not significant enough to create a change
