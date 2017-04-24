@@ -8,14 +8,14 @@ weight: 50
 <h1> Cognitive Walkthrough Report for GrubHub </h1>
 <br>
 
-<span>Why we choose CW as our inspection method? </span>
+## Why we choose CW as our inspection method?
 - Cognitive Walkthrough method is quick, easy to set in place, and convenient to conduct.
 - Although Cognitive Walkthrough method seems light, it provides full and useful guidance for us  to evaluate a product. Four questions are organized and fulfills the important parts of the product, especially since it provides a clear sequence of events.
 - Heuristic Evaluation Method provide ten standards to analysis each steps of a product, which means the results would be too detailed. And sometimes, you couldn’t answer some questions since they’re not obvious to find.  
 - Heuristic Evaluation Method focuses more on the interface design problems, like *“Visibility of system status”, “Match between system and the real world”, “Flexibility and efficiency of use”* and *“Aesthetic and minimalist design”*. However, for our research product GrubHub we want to discuss more about the feature performances and the logic behind each step.
 - The question that we are asking is relevant to the inspection and can be helpful to improve the product (from a developer point of view).
 
-<span>Cognitive Walkthrough</span>
+##Cognitive Walkthrough
 **Task**:Search for *Pad Thai* in nearest restaurant by *distance, lowest price ($), and 3-star rating & up*.
 **Users**:Not a frequent user of GrubHub, but have use the app at least once.
 **Questions**:
@@ -39,7 +39,7 @@ The mileage is shown in the description that follows the restaurant, but you hav
 | Select the Pad Thai dish <br>**2.Input pad thai into search bar** | **Yes** <br>Users can input Pad Thai in search bar and a list of the results is shown, and users can choose anyone they want. | **Yes** <br>The search bar is obviously visible on the page. | **Yes** <br>The blank search bar with grey details “Search menu items” tells users to input dishes they want. | **Yes**
 <br>If the user inputs the correct dish name, they will see the results in the list. | |
 
-<span>Takeaways</span>
+##Takeaways
 - To standard actions such as using the search bar, as well as scrolling through results, are easy to understand by the user, but are not 100% always apparent or clear in its results
 - We cannot always assume the user is always coherent with their ability to choose the correct selection, instead the application should do it’s fair share to guide them without being too overwhelming or bothersome
 - Although the filters are not completely necessary, it helps the user break down selection bias by adding specifics in terms of price, reviews, and distance
