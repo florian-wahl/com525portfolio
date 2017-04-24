@@ -136,7 +136,7 @@ weight: 6
   </table>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" style="width: 50%; margin-bottom: 2rem;">
   (image 4)
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 50%; margin-bottom: 2rem;">
+  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 50%; margin-bottom: 2re;">
   (image 4.1)
 
   <table>
