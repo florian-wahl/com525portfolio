@@ -25,6 +25,7 @@ weight: 50
 - Q4: Will the user understand the feedback?
 
 <center>**Cognitive Walkthrough Table**</center>
+<table>
   <tr>
     <td><b>#</b></td>
     <td><b>Steps</b></td>
