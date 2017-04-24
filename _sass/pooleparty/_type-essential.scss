@@ -35,6 +35,11 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+
+ol > li {
+  padding-left: .5rem;
+}
+
 hr {
   position: relative;
   margin: 1.5rem 0;
