@@ -24,8 +24,7 @@ weight: 50
 - Q3: Will the user recognize the action as the one they need?
 - Q4: Will the user understand the feedback?
 
-<center>Cognitive Walkthrough Table</center> 
-<table>
+<center>**Cognitive Walkthrough Table**</center>
   <tr>
     <td><b>#</b></td>
     <td><b>Steps</b></td>
