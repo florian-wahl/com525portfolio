@@ -44,8 +44,8 @@ a {
 
 img {
   display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
+  max-width: 80%;
+  margin: 0 auto;
   // No border radius to be consistent with code/math
   // border-radius: 5px;
 
@@ -55,4 +55,9 @@ img {
     margin-left: calc(-1rem);
     margin-right: calc(-1rem);
   }
+
+  &.team-img {
+      width: 75%;
+  }
+
 }
