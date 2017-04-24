@@ -64,42 +64,35 @@ Only UberEATS asks users to first login (using uber accounts). We believe this f
 - Add address in Eat24
 Users in Eat24 have to input the zip code or choose the default location every time they launch the app (image 4.1), we think this step could be dismissed and let the current location be present on the homepage just like GrubHub and UberEATS (Although, users have to type in the location the first time, the place will be cached by the system and show thereafter. Users can also choose the current location by GPS which is much more flexible as well.)
 
-<div align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.png" width="375" height="668" alt="image4.1"/>
-</div> (image4.1)
+(image4.1)
 
 - More categories: Four flavor options in Eat24 and “Most popular dishes” in UberEATS
 Eat24 and UberEATS provide more options for restaurants and food categories, especially the UIs are attractive (image 4.2 and image 4.3). However, we don’t think adding more categories is the primary focus since GrubHub already has a lot of options in its “Filter” feature. At the current time we do not think they are very important, and do not have the data source to prove that “more categories” is a key feature to attract new users. According to the user tests and personas designed before, we did not feel like users were requesting this feature in particular. 
 
-<div align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/3.png" width="375" height="668" alt="image4.2"/>
-</div> (image4.2)
+(image4.2)
 
-<div align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/5.png" width="375" height="668" alt="image4.3"/>
-</div> (image4.3)
+(image4.3)
 
 - Party Menu in Eat24
 Both Eat24 and UberEATS have the “Party Menu” for people who can quickly order food for the party. This feature is tricky because the party is a crucial scenario for food delivery application. “Party Menu” recommends food suitable for big groups of people, helping them to make decisions quickly. GrubHub can replicate this feature but is not limited to "Party menu". According to the user tests and personas realized before, we can add a similar menu like “Working Lunch Menu” for people in the office needing food in a more urgent manner.
 
-<div align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/10.png" width="375" height="668" alt="image4.4"/>
-</div> (image4.4)
+(image4.4)
 
-<div align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/9.png" width="375" height="668" alt="image4.5"/>
-</div> (image4.5)
+(image4.5)
 
 - What’s Good, Eye Candy, and View Informations in Eat24
 These three features (images 4.6, 4.7, 4.8) in Eat24 have one similar resource: real pictures uploaded by users. Eat24 chooses real attractive pictures, high rate reviews, and transforms them as “What’s Good” (when you’re choosing a restaurant) and “Eye Candy”(when you’re choosing dishes). It’s much more convenient for Eat24 since users can browse the reviews from Yelp here. Most users like full descriptions of foods, especially real pictures, which can help them make decisions, like figuring out what the food looks like and whether it is attractive.
 
-<div align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/8.png" width="375" height="668" alt="image4.6"/>
-</div> (image4.6)
+(image4.6)
 
-<div align=center>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/7.png" width="375" height="668" alt="image4.7"/>
-</div> (image4.7)
+(image4.7)
 
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/6.png" width="375" height="668" alt="image4.8"/>
 (image4.8)
