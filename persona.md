@@ -40,7 +40,7 @@ Franck West is a 28 years old and lives alone in his loft in Hyde Park, Chicago.
 
 
 
-## Second Persona: Someone busy working/in a rush
+## Second Persona: Someone busy working / in a rush
 
 - Photo
 
