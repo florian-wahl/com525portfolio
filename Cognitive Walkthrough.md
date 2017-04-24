@@ -3,9 +3,9 @@ layout: page
 title: 'Inspection Method Report'
 weight: 50
 ---
-<center>
 
-<h1> Cognitive Walkthrough Report for GrubHub </h1>
+
+<center><h1> Cognitive Walkthrough Report for GrubHub </h1></center>
 <br>
 
 ## Why we choose CW as our inspection method?
