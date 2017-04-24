@@ -12,15 +12,15 @@ weight: 1
 * [Task list](#5)
 * [Data and evaluation measures](#6)
 
-**The system** : GrubHub iOS app
+**The system** : GrubHub Mobile App
 
 ## <span id="1">Goals</span>
 
 Improve the process of users making orders via the application (e.g. by providing more information about a dish).
 
-Improving the process/Increasing the number of users ordering unknow dish via the application.
+Improving the process/Increasing the number of users ordering unknown dishes via the application.
 
-Making the process more transparent between customer and restaurant proprietor.
+Making the process more transparent between customers and restaurant proprietor.
 
 ## <span id="2">Research Questions</span>
 
