@@ -48,6 +48,63 @@ weight: 50
     	The results list restaurants that offer Pad Thai.</td>
     <td>I will say that if the user were to expect the results to show a comparative list of Pad Thai dishes, then they would get confused. Instead, the user is given a list of restaurants that offer the dish.  </td>
   </tr>
+  <tr>
+	<td>2</td>
+	<td>Use the filter/refine button to <br>
+		<b>1.Sort By: Distance</b> <br>
+		<b>2.Ratings: ★★★ & up </b> <br>
+		<b>3.Price: $ & below</b></td>
+	<td><b>Yes</b><br>
+		After users set their filters, and choose “Apply”, the filtered restaurants will showed in the homepage. </td>
+	<td><b>Yes</b><br>
+		Although “Sort By” and “Deliver my order” need users to choose in a hidden stage, all the filters choices are clearly visible.</td>
+	<td><b>Yes</b><br>
+		The choices in Filters have strong introductions for users to easily understand. And users could choose any one if they need.</td>
+	<td><b>Yes</b><br> 
+		The chosen result in “Sort By”, “Deliver my order” and “Price” will become blue;The asteroid figure would become yellow after users choose;The last three filters provide on-off button for users to choose, and once users tap, the button will become switch to blue. </td>
+	<td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Choose the nearest restaurant</td>
+    <td><b>No</b><br>
+ 		Even though results have already sorted by distance you have to assume the first result will be the closest, whereas there is no other visual indicator acknowledging it to be the correct choice. Not very clear, and greyed out.</td>
+    <td><b>No</b><br>
+    	The mileage is shown in the description that follows the restaurant, but you have to compare at least one other to know that it is the shortest route</td>
+    <td><b>No</b><br>
+    	The results have been sorted in ascending by distance, as well as, but the user will have to verify by comparing</td>
+    <td><b>Yes</b><br> 
+    	Mileage is sorted in ascending order, as well as there is a visual indicator of range. Assuming the user is confident of their selection</td>
+    <td>The only concern I could in this step is that there is no certain selection, as in GrubHub does not say for certain the first selection is the nearest, you are to assume or compare on your own accord, and trust that the app is functioning correctly </td>
+  </tr>
+  <tr>
+	<td>4</td>
+	<td>Select the Pad Thai dish<br>
+		<b> - Scroll down the menu to find Pad Thai</b> <br></td>
+	<td><b>Yes</b><br>
+		The results are displayed as a list and it makes sense to ask the user to scroll it to see more options </td>
+	<td><b>Yes</b><br>
+		Same as Q1, all the results are displayed. In addition, a small scrolling bar is visible on the right side of the screen (indicates that there is more to see below)</td>
+	<td><b>Yes</b><br>
+		If they don’t see a choice that fits what they are looking for, they will definitely scroll the screen</td>
+	<td><b>Yes</b><br> 
+		When scrolling the screen the results are moving like expected. In addition, the scroll bar is moving giving feedback on how many results are left in the list </td>
+	<td>Nothing to add or change to this step. The action is pretty standard, understandable for an unfamiliar user, and the feedback is clear and redundant.</td>
+  </tr>
+  <tr>
+	<td>5</td>
+	<td>Select the Pad Thai dish<br>
+		<b> - Input pad thai into search bar</b> <br></td>
+	<td><b>Yes</b><br>
+		Users can input Pad Thai in search bar and a list of the results is shown, and users can choose anyone they want. </td>
+	<td><b>Yes</b><br>
+		The search bar is obviously visible on the page.</td>
+	<td><b>Yes</b><br>
+		The blank search bar with grey details “Search menu items” tells users to input dishes they want. </td>
+	<td><b>Yes</b><br> 
+		If the user inputs the correct dish name, they will see the results in the list. </td>
+	<td></td>
+  </tr>
  </table>
 
 
