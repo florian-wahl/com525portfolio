@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<h1 class="page-title">{{ page.title }}</h1>
+<hr/>
+One sentence
+<h2>Executive Summary</h2>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium fringilla orci at consectetur. Aenean ullamcorper ullamcorper elit vitae tristique. Nam ultrices, lorem ac rhoncus euismod, ex sem blandit est, in interdum lorem dolor sed nibh. Aliquam ut lorem rhoncus, facilisis leo eget, congue neque. Sed massa ante, posuere vel ex in, cursus tempus nunc. Aenean id ante nibh. Proin quis suscipit est. Pellentesque porta ligula ac urna iaculis molestie.
+</p>
+<p>
+Praesent aliquet ante sapien, in imperdiet neque sodales non. Nullam aliquam dui et tortor commodo pretium. In eleifend, ex in scelerisque cursus, massa justo vehicula metus, quis ullamcorper nunc lacus quis quam. Duis vitae posuere ante, ornare accumsan nunc. Donec tincidunt, turpis in sollicitudin condimentum, sem lacus blandit risus, id vulputate enim leo eu eros. Cras id mauris a eros feugiat maximus. Mauris ut arcu quis purus vehicula maximus. Nulla a dui tincidunt, pulvinar lectus non, tempor eros. Suspendisse neque orci, faucibus ut feugiat vel, dapibus eu arcu. Cras augue dolor, luctus vel metus sit amet, finibus rutrum est.
+</p>
+Suspendisse potenti. Phasellus dolor enim, tincidunt in ullamcorper id, luctus quis dolor. Vivamus eu lacinia diam. Nunc a sapien neque. Integer sed sodales enim. Phasellus viverra ac sapien cursus suscipit. Sed aliquam, tellus ac feugiat pretium, diam augue tempor dolor, quis fermentum eros massa ac ante. Aliquam mollis vitae nisl vel pretium.
+<br>
+<h2>Table of Content</h2>
+You will find on this website the different project we realize to study <b>GrubHub</b> UX and to propose improvements.
+The differents reports can be found using the links on the left-menu or by navigating this table of content:
+<ol>
+{% assign pages_list = site.pages | sort:"weight" %}
+{% for node in pages_list %}
+  {% if node.title != null %}
+    {% if node.layout == "page" %}
+    <li>
+      <a href="{{ node.url | prepend:site.baseurl }}">{{ node.title }}</a>
+    </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ol>
+
+<h2>Conclusion & Takeaways</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium fringilla orci at consectetur. Aenean ullamcorper ullamcorper elit vitae tristique. Nam ultrices, lorem ac rhoncus euismod, ex sem blandit est, in interdum lorem dolor sed nibh. Aliquam ut lorem rhoncus, facilisis leo eget, congue neque. Sed massa ante, posuere vel ex in, cursus tempus nunc. Aenean id ante nibh. Proin quis suscipit est. Pellentesque porta ligula ac urna iaculis molestie.
+<br>
+Praesent aliquet ante sapien, in imperdiet neque sodales non. Nullam aliquam dui et tortor commodo pretium. In eleifend, ex in scelerisque cursus, massa justo vehicula metus, quis ullamcorper nunc lacus quis quam. Duis vitae posuere ante, ornare accumsan nunc. Donec tincidunt, turpis in sollicitudin condimentum, sem lacus blandit risus, id vulputate enim leo eu eros. Cras id mauris a eros feugiat maximus. Mauris ut arcu quis purus vehicula maximus. Nulla a dui tincidunt, pulvinar lectus non, tempor eros. Suspendisse neque orci, faucibus ut feugiat vel, dapibus eu arcu. Cras augue dolor, luctus vel metus sit amet, finibus rutrum est.
+<br>
+Suspendisse potenti. Phasellus dolor enim, tincidunt in ullamcorper id, luctus quis dolor. Vivamus eu lacinia diam. Nunc a sapien neque. Integer sed sodales enim. Phasellus viverra ac sapien cursus suscipit. Sed aliquam, tellus ac feugiat pretium, diam augue tempor dolor, quis fermentum eros massa ac ante. Aliquam mollis vitae nisl vel pretium.
+<br>

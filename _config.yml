@@ -13,7 +13,7 @@ url:                 ''
 # i.e. `http://<username>.github.io`
 baseurl:             ""
 
-title:               COM 525 Portfolio
+title:               COM 525 Portfolio - GrubHub
 
 # Pagination
 paginate:            5
@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A portfolio presenting the User Experience work that we have done on the GrubHub Mobile App.
+  A portfolio presenting the User Experience work that we realized on the GrubHub Mobile App.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        []
@@ -31,8 +31,8 @@ sidebar_tags:        []
 color:               '#F63340'
 
 # Fonts
-font:                'Lato, sans-serif'
-font_accent:         '"Lato", "PT Serif", Georgia, serif'
+font:                'Lato'
+font_accent:         '"Work Sans", Georgia, serif'
 load_google_fonts:   'Lato|Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
 
 # About yourself
