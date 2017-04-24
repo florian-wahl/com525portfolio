@@ -78,6 +78,7 @@ weight: 6
 		The chosen result in “Sort By”, “Deliver my order” and “Price” will become blue;The asteroid figure would become yellow after users choose;The last three filters provide on-off button for users to choose, and once users tap, the button will become switch to blue. </td>
 	<td></td>
   </tr>
+  </table>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" width="375" height="668" alt="image2"/>
 (image 2)
 
@@ -105,6 +106,7 @@ weight: 6
     <td>The only concern I could in this step is that there is no certain selection, as in GrubHub does not say for certain the first selection is the nearest, you are to assume or compare on your own accord, and trust that the app is functioning correctly </td>
   </tr>
   <tr>
+  </table>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" width="375" height="668" alt="image3"/>
 (image 3)
 
@@ -131,6 +133,7 @@ weight: 6
 		When scrolling the screen the results are moving like expected. In addition, the scroll bar is moving giving feedback on how many results are left in the list </td>
 	<td>Nothing to add or change to this step. The action is pretty standard, understandable for an unfamiliar user, and the feedback is clear and redundant.</td>
   </tr>
+  </table>
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" width="375" height="668" alt="image4"/>
 (image 4)
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" width="375" height="668" alt="image4.1"/>
@@ -148,6 +151,7 @@ weight: 6
   </tr>
   <tr>
 
+  <table>
 	<td>5</td>
 	<td>Select the Pad Thai dish<br>
 		<b> - Input pad thai into search bar</b> <br></td>
