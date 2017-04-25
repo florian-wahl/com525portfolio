@@ -11,7 +11,7 @@ To realize this competitive analysis report we decided to focus on the “search
 </center>
 
 
-# Table of Contents
+## Table of Contents
 1. [List of competitors](#1)
 2. [Flow chart](#2)
 3. [Competitor Analysis Table](#3)
@@ -19,7 +19,7 @@ To realize this competitive analysis report we decided to focus on the “search
 5. [Summary](#5)
 6. [New ideas for GrubHub](#6)
 
-# 1. <span id="1">List of competitors</span>
+## 1. <span id="1">List of competitors</span>
 GrubHub has two types of competitors: **direct competitors** which provide the same service (ie. food delivery) and **indirect competitors** which can be a substitute of the service proposed by GrubHub (eg. different markets, value proposition).
 
 - **Direct Competitors**
@@ -49,12 +49,12 @@ GrubHub has two types of competitors: **direct competitors** which provide the s
   - DiningIn
   - Word of mouth
 
-# 2. <span id="2">Flow chart</span>
+## 2. <span id="2">Flow chart</span>
 The so called “search process” starts with the “launch the app” task and ends when the user is able to “select a dish”.
 
-# 3. <span id="3">Competitor Analysis Table</span>
+## 3. <span id="3">Competitor Analysis Table</span>
 
-# 4. <span id="4">Takeaways</span>
+## 4. <span id="4">Takeaways</span>
 From the flow charts and the competitors table above, we can find that most features of the “search process” in the direct competition are similar in comparison to Eat24 and UberEATS, even though the title of features may be different. However, there are still some particular differences we need to analyze and determine whether they are beneficial to aid our future design.
 
 **Difference:**
@@ -97,7 +97,7 @@ These three features (images 4.6, 4.7, 4.8) in Eat24 have one similar resource: 
   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/6.png" width="375" height="668" alt="image4.8"/>
   (image4.8)
 
-# 5. <span id="5">Summary</span>
+## 5. <span id="5">Summary</span>
 - Competitors have slightly different features for providing the “search process” but it’s not significant enough to create a change
 - UX does not drastically change from app to other app
 - The process we studied is really similar between competitors
@@ -106,7 +106,7 @@ These three features (images 4.6, 4.7, 4.8) in Eat24 have one similar resource: 
   - Basically, every application we studied offer the same experience without any presenting real innovation
   - Groupon, however, was a bit different from the rest, as this is an indirect competitor  
 
-# 6. <span id="6">New ideas for GrubHub</span>
+## 6. <span id="6">New ideas for GrubHub</span>
 Based on what we saw, here is a short list of improvements or new features that could enhance the user experience when using GrubHub’s application:
 - Users can update the real pictures in the reviews and earn coupons.
   - Update pictures → earn points → redeem points for coupons and discounts
