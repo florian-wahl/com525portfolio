@@ -106,8 +106,8 @@ weight: 6
     <td>The only concern I could in this step is that there is no certain selection, as in GrubHub does not say for certain the first selection is the nearest, you are to assume or compare on your own accord, and trust that the app is functioning correctly </td>
   <tr>
 </table>
-<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="style="width: 35%"">
-(image 3)
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="width: 35%"">
+<p><center>(image 3)</center><p>
 
 <table>
   <tr>
@@ -135,10 +135,10 @@ weight: 6
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" style="width: 35%">
-(image 4)
+<p><center>(image 4)</center></p>
 
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 35%">
-(image 4.1)
+<p><center>(image 4.1)</center></p>
 
 <table>
   <tr>
@@ -168,7 +168,6 @@ weight: 6
  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 35%">
  <p><center>(image 4.2)</center></p>
  
-
 
 ## Takeaways
 - To standard actions such as using the search bar, as well as scrolling through results, are easy to understand by the user, but are not 100% always apparent or clear in its results
