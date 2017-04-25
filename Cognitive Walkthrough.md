@@ -50,7 +50,7 @@ weight: 6
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.Input%20Pad%20Thai%20in%20search%20the%20bar.PNG" style="width: 35%">
-<p><center>(image 1)</center><p>
+<p><center>(image 1)</center></p>
 
 <table>
   <tr>
@@ -80,7 +80,7 @@ weight: 6
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" style="width: 35%">
-<p><center>(image 2)</center><p>
+<p><center>(image 2)</center></p>
 
 <table>
   <tr>
@@ -107,7 +107,7 @@ weight: 6
   <tr>
 </table>
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="width: 35%"">
-<p><center>(image 3)</center><p>
+<p><center>(image 3)</center></p>
 
 <table>
   <tr>
@@ -165,9 +165,10 @@ weight: 6
   	<td></td>
   </tr>
  </table>
- <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 35%">
- <p><center>(image 4.2)</center></p>
- 
+ <div>
+  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 35%">
+  <p><center>(image 4.2)</center></p>
+ </div>
 
 ## Takeaways
 - To standard actions such as using the search bar, as well as scrolling through results, are easy to understand by the user, but are not 100% always apparent or clear in its results
