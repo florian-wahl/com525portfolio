@@ -3,7 +3,6 @@ layout: page
 title: 'Persona'
 weight: 4
 ---
-# Persona
 
 ## First Persona: Someone ordering food for leisure or not critical reasons
 
