@@ -49,8 +49,8 @@ weight: 6
     <td>I will say that if the user were to expect the results to show a comparative list of Pad Thai dishes, then they would get confused. Instead, the user is given a list of restaurants that offer the dish.  </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.Input%20Pad%20Thai%20in%20search%20the%20bar.PNG" style="width:300">
-(image 1)
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.Input%20Pad%20Thai%20in%20search%20the%20bar.PNG" style="width: 35%">
+<p><center>(image 1)</center><p>
 
 <table>
   <tr>
@@ -63,26 +63,26 @@ weight: 6
     <td><b>Notes</b></td>
   </tr>
   <tr>
-	<td>2</td>
-	<td>Use the filter/refine button to <br>
-		<b>1.Sort By: Distance</b> <br>
-		<b>2.Ratings: ★★★ & up </b> <br>
-		<b>3.Price: $ & below</b></td>
-	<td><b>Yes</b><br>
-		After users set their filters, and choose “Apply”, the filtered restaurants will showed in the homepage. </td>
-	<td><b>Yes</b><br>
-		Although “Sort By” and “Deliver my order” need users to choose in a hidden stage, all the filters choices are clearly visible.</td>
-	<td><b>Yes</b><br>
-		The choices in Filters have strong introductions for users to easily understand. And users could choose any one if they need.</td>
-	<td><b>Yes</b><br> 
-		The chosen result in “Sort By”, “Deliver my order” and “Price” will become blue;The asteroid figure would become yellow after users choose;The last three filters provide on-off button for users to choose, and once users tap, the button will become switch to blue. </td>
-	<td></td>
+  	<td>2</td>
+  	<td>Use the filter/refine button to <br>
+  		<b>1.Sort By: Distance</b> <br>
+  		<b>2.Ratings: ★★★ & up </b> <br>
+  		<b>3.Price: $ & below</b></td>
+  	<td><b>Yes</b><br>
+  		After users set their filters, and choose “Apply”, the filtered restaurants will showed in the homepage. </td>
+  	<td><b>Yes</b><br>
+  		Although “Sort By” and “Deliver my order” need users to choose in a hidden stage, all the filters choices are clearly visible.</td>
+  	<td><b>Yes</b><br>
+  		The choices in Filters have strong introductions for users to easily understand. And users could choose any one if they need.</td>
+  	<td><b>Yes</b><br> 
+  		The chosen result in “Sort By”, “Deliver my order” and “Price” will become blue;The asteroid figure would become yellow after users choose;The last three filters provide on-off button for users to choose, and once users tap, the button will become switch to blue. </td>
+  	<td>  </td>
   </tr>
-  </table>
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" style="width: 300">
-(image 2)
+</table>
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" style="width: 35%">
+<p><center>(image 2)</center><p>
 
-  <table>
+<table>
   <tr>
     <td><b>#</b></td>
     <td><b>Steps</b></td>
@@ -104,13 +104,12 @@ weight: 6
     <td><b>Yes</b><br> 
     	Mileage is sorted in ascending order, as well as there is a visual indicator of range. Assuming the user is confident of their selection</td>
     <td>The only concern I could in this step is that there is no certain selection, as in GrubHub does not say for certain the first selection is the nearest, you are to assume or compare on your own accord, and trust that the app is functioning correctly </td>
-  </tr>
   <tr>
-  </table>
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="style="width: 300"">
-  (image 3)
+</table>
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="style="width: 35%"">
+(image 3)
 
-  <table>
+<table>
   <tr>
     <td><b>#</b></td>
     <td><b>Steps</b></td>
@@ -134,14 +133,14 @@ weight: 6
   		When scrolling the screen the results are moving like expected. In addition, the scroll bar is moving giving feedback on how many results are left in the list </td>
   	<td>Nothing to add or change to this step. The action is pretty standard, understandable for an unfamiliar user, and the feedback is clear and redundant.</td>
   </tr>
-  </table>
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" style="width: 300">
-  (image 4)
+</table>
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" style="width: 35%">
+(image 4)
 
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 300">
-  (image 4.1)
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 35%">
+(image 4.1)
 
-  <table>
+<table>
   <tr>
     <td><b>#</b></td>
     <td><b>Steps</b></td>
@@ -152,22 +151,22 @@ weight: 6
     <td><b>Notes</b></td>
   </tr>
   <tr>
-	<td>5</td>
-	<td>Select the Pad Thai dish<br>
-		<b> - Input pad thai into search bar</b> <br></td>
-	<td><b>Yes</b><br>
-		Users can input Pad Thai in search bar and a list of the results is shown, and users can choose anyone they want. </td>
-	<td><b>Yes</b><br>
-		The search bar is obviously visible on the page.</td>
-	<td><b>Yes</b><br>
-		The blank search bar with grey details “Search menu items” tells users to input dishes they want. </td>
-	<td><b>Yes</b><br> 
-		If the user inputs the correct dish name, they will see the results in the list. </td>
-	<td></td>
+  	<td>5</td>
+  	<td>Select the Pad Thai dish<br>
+  		<b> - Input pad thai into search bar</b> <br></td>
+  	<td><b>Yes</b><br>
+  		Users can input Pad Thai in search bar and a list of the results is shown, and users can choose anyone they want. </td>
+  	<td><b>Yes</b><br>
+  		The search bar is obviously visible on the page.</td>
+  	<td><b>Yes</b><br>
+  		The blank search bar with grey details “Search menu items” tells users to input dishes they want. </td>
+  	<td><b>Yes</b><br> 
+  		If the user inputs the correct dish name, they will see the results in the list. </td>
+  	<td></td>
   </tr>
  </table>
- <img src="https://github.com/florian-wahl/com525portfolio/blob/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 300">
- <center>(image 4.2)</center>
+ <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 35%">
+ <p><center>(image 4.2)</center></p>
  
 
 
