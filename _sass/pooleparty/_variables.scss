@@ -16,7 +16,7 @@ $brown: #8f5536;
 $root-font-size: 16px;
 $root-line-height: 1.65;
 
-$body-color: #515151;
+$body-color: #262626;
 $body-bg: #fff;
 $link-color: $blue;
 
@@ -25,5 +25,6 @@ $border-color: #e5e5e5;
 $large-breakpoint: 38em;
 $large-font-size: 20px;
 
-$code-font-family: Menlo, Monaco, "Courier New", monospace;
+$code-font-family: inherit;
+$code-font-family-title: "Work Sans";
 $code-color: inherit;

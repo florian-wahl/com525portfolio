@@ -12,15 +12,15 @@ weight: 1
 * [Task list](#5)
 * [Data and evaluation measures](#6)
 
-**The system** : GrubHub iOS app
+**The system** : GrubHub Mobile App
 
 ## <span id="1">Goals</span>
 
 Improve the process of users making orders via the application (e.g. by providing more information about a dish).
 
-Improving the process/Increasing the number of users ordering unknow dish via the application.
+Improving the process/Increasing the number of users ordering unknown dishes via the application.
 
-Making the process more transparent between customer and restaurant proprietor.
+Making the process more transparent between customers and restaurant proprietor.
 
 ## <span id="2">Research Questions</span>
 
@@ -49,13 +49,13 @@ Making the process more transparent between customer and restaurant proprietor.
 
 ## <span id="4">Test Script</span>
 
-### Participation Introduction & Consent
+### Participation introduction & consent:
 
 Hi, everyone!  My name is [_name_], and this is [_other person present_], they will be responsible for the recordings during this trial.
 
 We would like to remind you this is not a test based on your individual skills, rather than a trail on the application at hand. With that in mind, when you are answering questions please try to think aloud and talk us through what you may normally do given the situation. Say what you&#39;re looking at, what you&#39;re trying to do, and what you&#39;re thinking. There are no criteria for your answer, and you don&#39;t need to worry about whether your answers or behaviors are right or wrong, just interpret the question, and take your time to respond and react. If you struggle with using or understanding the application, your feedback is valuable for us to make helpful changes to improve this application.
 
-The session should take about an hour. If you need a break, just let me know at any point. If you have any questions during the session, feel free to ask them. I may not answer you immediately since we are acting mainly as observers, where we are interested in how people will react and solve the issue when nobody is sitting next to them to help, but if your issue puts a hinderance on the trail we will answer your question promptly.
+The session should take about an hour. If you need a break, just let me know at any point. If you have any questions during the session, feel free to ask them. I may not answer you immediately since we are acting mainly as observers, where we are interested in how people will react and solve the issue when nobody is sitting next to them to help, but if your issue puts a hindrance on the trail we will answer your question promptly.
 
 We would like at this time to make you aware that what you say and do will be recorded strictly for our observations only. These recordings will not be used for any other purposes beyond this particular trial. [Hand over consent form]
 
@@ -65,7 +65,7 @@ Thank you for agreeing to participate in our research study today. We&#39;re wor
 
 Our test device is an iPhone 6, and it will be put in front of you before we begin the trail. GrubHub is an online and mobile food-ordering application, and it has been already been pre-installed onto the testing device. We will ask you to use the GrubHub application yourself in the session.
 
-### Pre questions:
+### Pre-questions:
 
 - Do you have any questions so far?
 
@@ -97,7 +97,7 @@ We will begin our first task now.
 [_Task #7_]
 This is our last task.
 
-### Task completion and questionnaire :
+### Task completion and questionnaire:
 
 Thank you. We have completed all tasks.
 
@@ -109,7 +109,7 @@ Once again, I&#39;d like to say thanks for coming today. Your efforts help us to
 
 Do you have any questions or comments for our test now that we&#39;re done?
 
-### <span id="5">Tasks List</span>
+## <span id="5">Tasks List</span>
 
 **Scenario** : It is dinner time. You are at the point where you are hungry, but at the same time you are really busy, and simply do not have the time to pick up some food. You decide the best route would be to order food for delivery. To do so, you pickup your smartphone and load up the GrubHub app.
 

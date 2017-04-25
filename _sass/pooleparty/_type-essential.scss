@@ -8,14 +8,15 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  font-family: $code-font-family-title;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 h2 {
-  margin-top: 1rem;
+  margin-top: 2rem;
   font-size: 1.5rem;
 }
 
@@ -32,6 +33,15 @@ p {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+
+  > li {
+    margin-top: 0;
+  }
+}
+
+
+ol > li {
+  padding-left: .5rem;
 }
 
 hr {
