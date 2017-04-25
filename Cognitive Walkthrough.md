@@ -104,7 +104,7 @@ weight: 6
     <td><b>Yes</b><br> 
     	Mileage is sorted in ascending order, as well as there is a visual indicator of range. Assuming the user is confident of their selection</td>
     <td>The only concern I could in this step is that there is no certain selection, as in GrubHub does not say for certain the first selection is the nearest, you are to assume or compare on your own accord, and trust that the app is functioning correctly </td>
-  <tr>
+  </tr>
 </table>
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="width: 35%"">
 <p><center>(image 3)</center></p>
@@ -175,4 +175,3 @@ weight: 6
 - We cannot always assume the user is always coherent with their ability to choose the correct selection, instead the application should do it’s fair share to guide them without being too overwhelming or bothersome
 - Although the filters are not completely necessary, it helps the user break down selection bias by adding specifics in terms of price, reviews, and distance
 - After running this test, the conclusion is that GrubHub did a pretty good job to make is search process as comprehensible as possible; almost every step did pass the cognitive walkthrough
-
