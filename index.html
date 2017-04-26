@@ -5,35 +5,65 @@ title: 'Welcome - COM 525 Portfolio - GrubHub'
 
 <h1 class="page-title">{{ page.title }}</h1>
 <hr>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/GrubHub_Logo_2016.svg/1280px-GrubHub_Logo_2016.svg.png" style="width: 50%; margin-bottom: 2rem;">
+<img src="http://i.imgur.com/mqWNDXF.jpg" style="width: 50%; margin-bottom: 2rem;">
 <p>
-  This website is the portfolio of the work that our Team realized on GrubHub Mobile Application User Experience (UX).
+  This website is a portfolio of the work that team GrubHub of Illinois Tech, COM 525 produced during the Spring 2017 semester.
 </p>
 <h2>Executive Summary</h2>
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium fringilla orci at consectetur. Aenean ullamcorper ullamcorper elit vitae tristique. Nam ultrices, lorem ac rhoncus euismod, ex sem blandit est, in interdum lorem dolor sed nibh. Aliquam ut lorem rhoncus, facilisis leo eget, congue neque. Sed massa ante, posuere vel ex in, cursus tempus nunc. Aenean id ante nibh. Proin quis suscipit est. Pellentesque porta ligula ac urna iaculis molestie.
+  This team is composed of four IT students that used the principles of user-center design and inspection methods for conducting user experience research to support their thesis.
+</p>
+<h3>Thesis</h3>
+<p>
+  Adding visuals to GrubHub’s mobile application would reduce buyer's remorse and be a driving force for future sells.
 </p>
 <p>
-  Praesent aliquet ante sapien, in imperdiet neque sodales non. Nullam aliquam dui et tortor commodo pretium. In eleifend, ex in scelerisque cursus, massa justo vehicula metus, quis ullamcorper nunc lacus quis quam. Duis vitae posuere ante, ornare accumsan nunc. Donec tincidunt, turpis in sollicitudin condimentum, sem lacus blandit risus, id vulputate enim leo eu eros. Cras id mauris a eros feugiat maximus. Mauris ut arcu quis purus vehicula maximus. Nulla a dui tincidunt, pulvinar lectus non, tempor eros. Suspendisse neque orci, faucibus ut feugiat vel, dapibus eu arcu. Cras augue dolor, luctus vel metus sit amet, finibus rutrum est.
+  Students collectively planned and conducted reports that evaluated the UX/UI of, but not limited to, GrubHub’s mobile application available on iOS and Android. The nature of the course work consisted of researching, collecting, and interpreting data, in concert with formally detailing report outcomes and recommendations, all from the lense of user-centered design. This website will showcase the highlights of the students work.
 </p>
+<h3>User Test Plan</h3>
 <p>
-  Suspendisse potenti. Phasellus dolor enim, tincidunt in ullamcorper id, luctus quis dolor. Vivamus eu lacinia diam. Nunc a sapien neque. Integer sed sodales enim. Phasellus viverra ac sapien cursus suscipit. Sed aliquam, tellus ac feugiat pretium, diam augue tempor dolor, quis fermentum eros massa ac ante. Aliquam mollis vitae nisl vel pretium.
+  The User Test Plan was designed to help us learn about our user. Systematic questions were used to extract information from our participants to support clearly defined goals that surround our thesis. Users were asked to test the GrubHub application by following an oral script recited from an orator that guided them through several procedures. Both performance and preference data were collected during the test sessions- worth reading.
 </p>
+<h3>User Test Report</h3>
+<p>
+  The User Test Report is a formal report that clearly details the results and specifics of the User Test Plan. It allows the investigator or tester to view the User Test Report data in chronological order, making it easy to compare the results of the participants. The results can reveal commonalities and distinct differences between the participants, helping us reshape our goals and thesis and to become aware of our suttle assumptions.
+</p>
+<h3>Persona</h3>
+<p>
+  Personas are fictional characters that are designed to mimic an actual user. We created different skeletons to help us focus and decided on the appropriate personas for our overall aim. The data of our personas were collected from reputable source that describe the behaviors and attitudes from our target group.
+</p>
+<h3>Survey</h3>
+<p>
+  The survey is predicated on the results of the User Test Plan. Participants were asked specific questions that revealed their motives and attitudes when interacting with GrubHub’s mobile application. The outcome helped us ascertain the usability of GrubHub's application and more insight about a typical user.
+</p>
+<h3>Competitive Analysis</h3>
+<p>
+  Our competitive analysis was created to juxtapose the search feature of GrubHub against its direct and indirect competitors. The search feature became a focal point because it is the engine users rely on when interacting with the app. Flowcharts are available for reviewing!
+</p>
+<h3>Inspection Method</h3>
+<p>
+  For our inspection method, we used a Cognitive Walkthrough to effectively evaluate ease of learning. We used four key questions for each step of the walkthrough. Are results were predictable but the notes are worth reading.
+</p>
+
+<hr>
+
 <h2>Table of Content</h2>
 You will find on this website the different project we realize to study <b>GrubHub</b> UX and to propose improvements.
 The differents reports can be found using the links on the left-menu or by navigating this table of content:
 <ol>
-{% assign pages_list = site.pages | sort:"weight" %}
-{% for node in pages_list %}
+  {% assign pages_list = site.pages | sort:"weight" %}
+  {% for node in pages_list %}
   {% if node.title != null %}
-    {% if node.layout == "page" %}
-    <li>
-      <a href="{{ node.url | prepend:site.baseurl }}">{{ node.title }}</a>
-    </li>
-    {% endif %}
+  {% if node.layout == "page" %}
+  <li>
+    <a href="{{ node.url | prepend:site.baseurl }}">{{ node.title }}</a>
+  </li>
   {% endif %}
-{% endfor %}
+  {% endif %}
+  {% endfor %}
 </ol>
+
+<hr>
 
 <h2>Conclusion & Takeaways</h2>
 <p>
