@@ -8,14 +8,19 @@ weight: 6
 <center><h1> Cognitive Walkthrough Report for GrubHub </h1></center>
 <br>
 
-## Why we choose CW as our inspection method?
+## Table of Contents
+1. [Why we choose CW as our inspection method?](#1)
+2. [Cognitive Walkthrough](#2)
+3. [Takeaways](#3)
+
+## 1. <span id="1">Why we choose CW as our inspection method?</span>
 - Cognitive Walkthrough method is quick, easy to set in place, and convenient to conduct.
 - Although Cognitive Walkthrough method seems light, it provides full and useful guidance for us  to evaluate a product. Four questions are organized and fulfills the important parts of the product, especially since it provides a clear sequence of events.
 - Heuristic Evaluation Method provide ten standards to analysis each steps of a product, which means the results would be too detailed. And sometimes, you couldn’t answer some questions since they’re not obvious to find.  
 - Heuristic Evaluation Method focuses more on the interface design problems, like *“Visibility of system status”, “Match between system and the real world”, “Flexibility and efficiency of use”* and *“Aesthetic and minimalist design”*. However, for our research product GrubHub we want to discuss more about the feature performances and the logic behind each step.
 - The question that we are asking is relevant to the inspection and can be helpful to improve the product (from a developer point of view).
 
-## Cognitive Walkthrough
+## 2. <span id="2">Cognitive Walkthrough</span> 
 **Task**:Search for *Pad Thai* in nearest restaurant by *distance, lowest price ($), and 3-star rating & up*.
 **Users**:Not a frequent user of GrubHub, but have use the app at least once.
 **Questions**:
@@ -135,10 +140,8 @@ weight: 6
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" style="width: 35%">
-<p><center>(image 4)</center></p>
-
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 35%">
-<p><center>(image 4.1)</center></p>
+<p><center>(image 4 & 4.1)</center></p>
 
 <table>
   <tr>
@@ -170,7 +173,7 @@ weight: 6
   <p><center>(image 4.2)</center></p>
  </div>
 
-## Takeaways
+## 3. <span id="3">Takeaways</span> 
 - To standard actions such as using the search bar, as well as scrolling through results, are easy to understand by the user, but are not 100% always apparent or clear in its results
 - We cannot always assume the user is always coherent with their ability to choose the correct selection, instead the application should do it’s fair share to guide them without being too overwhelming or bothersome
 - Although the filters are not completely necessary, it helps the user break down selection bias by adding specifics in terms of price, reviews, and distance
