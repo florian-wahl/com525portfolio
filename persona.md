@@ -4,11 +4,57 @@ title: 'Persona'
 weight: 4
 ---
 
-## First Persona: Someone ordering food for leisure or not critical reasons
+## Table of Contents
+1. [Affinity Diagram](#1)
+2. [First Persona](#2)
+3. [Second Persona](#3)
+
+## 1. <span id="1">Affinity Diagram</span>
+ - Round 1
+   - Personal/ Leisure
+   ![Personal/ Leisure](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Personalandleisure.png)
+   <p><center>(image 1.1)</center></p>
+   
+   - Student
+   ![Student](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/student.png)
+   <p><center>(image 1.2)</center></p>
+
+   - Work related
+   ![Workrelated](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/workrelated.png)
+   <p><center>(image 1.3)</center></p>
+
+ - Round 2
+   - Critical
+   ![critical](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/critical.png)
+   <p><center>(image 1.4)</center></p>
+
+   - Leisure
+   ![leisure](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/leisure.png)
+   <p><center>(image 1.5)</center></p>
+
+   - Not Critical
+   ![notcritical](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/notcritical.png)
+   <p><center>(image 1.6)</center></p>
+
+   - Work Related: Busy & Not In A Rush
+   ![busy](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/rush.png)
+   <p><center>(image 1.7)</center></p>
+
+ - Round 3(Final)
+   - I. Someone ordering food for leisure or not critical reasons
+   - II. Someone busy working / in a rush
+   - III. Someone working who needs food
+   - IV. Someone needing food due to personal time -critical
+   - V. Student working on projects
+   ![Final](https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/final.png)
+   <p><center>(image 1.8)</center></p>
+
+## 2. <span id="2">First Persona: Someone ordering food for leisure or not critical reasons</span>
 
 - Photo
 
-![Persona1](https://static.pexels.com/photos/78225/pexels-photo-78225.jpeg)
+![Persona1](https://typeset-beta.imgix.net/2017/4/13/35eb999b-01dd-4a4d-9f4b-0d8e3209c940.jpeg?w=614&h=&fit=max&auto=format&q=70)
+<p><center>(image 2.1)</center></p>
 
 - Name: Franck West
 - Job & Role Description
@@ -37,13 +83,12 @@ Franck West is a 28 years old and lives alone in his loft in Hyde Park, Chicago.
   - Day traders are not usually busy, at least around diner time
   - Franck is located at home when he orders food
 
-
-
-## Second Persona: Someone busy working / in a rush
+## 3. <span id="3">Second Persona: Someone busy working / in a rush</span>
 
 - Photo
 
 ![Persona2](http://maquilladas.com/wp-content/2013/05/Consejos-para-peinar-el-pelo-corto-y-rizado1.jpg)
+<p><center>(image 3.1)</center></p>
 
 - Name: Lily Powers
 - Personal Details
