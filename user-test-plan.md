@@ -16,21 +16,21 @@ weight: 1
 
 ## <span id="1">1. Goals</span>
 
-Improve the process of users making orders via the application (e.g. by providing more information about a dish).
+- Improve the process of users making orders via the application (e.g. by providing more information about a dish).
 
-Improving the process/Increasing the number of users ordering unknown dishes via the application.
+- Increase the chances of users ordering unknown dishes via the application.
 
-Making the process more transparent between customers and restaurant proprietor.
+- Make the process more transparent between customers and restaurant proprietor.
 
 ## <span id="2">2. Research Questions</span>
 
 - Do users know what they are ordering? How do users figure out what a particular dish looks like?
 - How would a user find information concerning a dish?
 - How easily and clearly is it for users to get information about the dish they want in GrubHub?
-- What triggers the ordering/buying decision?What obstacles or inappropriate elements (usability flaws) encounter during the ordering process?
-  - Case A: the user already have something in mind
+- What triggers the ordering/buying decision? What obstacles or usability flaws are encountered during the ordering process?
+  - Case A: the user already has something in mind
   - Case B: the user doesn&#39;t know what to order
-- How easily users find the total ordering process? How is the length of time they spend during ordering process?
+- How easy is it for users to find the total ordering process? What is the length of time that user spend during the ordering process?
 - Do final orders match user original expectations?
 
 ## <span id="3">3. Participant Characteristics</span>
