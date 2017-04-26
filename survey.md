@@ -4,7 +4,7 @@ title: Survey
 weight: 5
 ---
 
-# GrubHub Surveys
+# GrubHub Survey
 
 ## Table of Contents
 1. [Goals](#1)
