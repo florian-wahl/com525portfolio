@@ -60,7 +60,7 @@ The so called “search process” starts with the “launch the app” task and
    <p><center>Groupon(image 2.4)</center></p>
 
 ## 3. <span id="3">Competitor Analysis Table</span>
-   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/competitive%20table.png" style="width: 50%; height: 50%; margin-bottom: 2rem;">
+   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/competitive%20table.png" style="width: 70%; height: 50%; margin-bottom: 2rem;">
    <p><center>(image 3.1)</center></p>
 
 ## 4. <span id="4">Takeaways</span>
