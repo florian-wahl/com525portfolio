@@ -51,7 +51,6 @@ weight: 4
 
 ## 2. <span id="2">First Persona: Someone ordering food for leisure or not critical reasons</span>
 
-- Photo
 
 ![Persona1](https://typeset-beta.imgix.net/2017/4/13/35eb999b-01dd-4a4d-9f4b-0d8e3209c940.jpeg?w=614&h=&fit=max&auto=format&q=70)
 <p><center>(image 2.1)</center></p>
@@ -85,7 +84,6 @@ Franck West is a 28 years old and lives alone in his loft in Hyde Park, Chicago.
 
 ## 3. <span id="3">Second Persona: Someone busy working / in a rush</span>
 
-- Photo
 
 ![Persona2](http://maquilladas.com/wp-content/2013/05/Consejos-para-peinar-el-pelo-corto-y-rizado1.jpg)
 <p><center>(image 3.1)</center></p>
