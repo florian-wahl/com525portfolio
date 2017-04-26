@@ -87,7 +87,7 @@ These three are summarized at the end of this section. The other characteristics
 
 ### Description of the participants
 
-| **#** | **Guillaume Boulanger** | **Denise Nunes** | **Jie Chen** | **Kayla Neetz** |
+| # | Guillaume Boulanger | Denise Nunes | Jie Chen | Kayla Neetz |
 | --- | --- | --- | --- | --- |
 | **Gender** | Male | Female | Female | Female |
 | **Age** |  22 | 33 | 25 | 24 |
@@ -98,7 +98,7 @@ These three are summarized at the end of this section. The other characteristics
 
 ### Summary of the characteristics
 
-| **Description** | **Value** | **Comments** |
+| Description | Value | Comments |
 | --- | --- | --- |
 | **Frequency of use** | Average 73.3% of the free time | Our participants use relatively often their smartphones (more than the half of their free time) |
 | **Experience of user** | High | Our participants are savvy with the usage of a smartphone. <br>This has to be kept in mind regarding the completion of the following tasks (eg. participants may not encounter problems that a smartphone novice may have) |
@@ -118,7 +118,7 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 **Task #1**: *Spend about 5 minutes playing with the app and get used to it and explain to us what you think of it and the conveniences that this app provides. Who do you think GrubHub is made for?*
 
-| **Name** | **Results** |
+| Name | Results |
 | --- | --- |
 | Boulanger | - No problems to understand the way to use the application <br> - Navigation through the menus, tabs, and filters |
 | Nunes | - First impression of the usability of the app wasn’t intimidating |
@@ -129,7 +129,7 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 **Task #2**: *Pick a dish you are familiar with, find a restaurant that provides the dish you are looking for, and find out how much the entire order will cost you.*
 
-| **Name** | **Results** |
+| Name | Results |
 | --- | --- |
 | Boulanger | - No problems to complete this task <br> - Users used the cuisine button to select a known cuisine, then narrowed down the results using filters, and finally selected one of the first rated restaurant and picked a dish <br> - Only check the ratings, not the reviews |
 | Nunes | - Phase One: User inputs home address first, as she always does, searches for a cuisine she’s familiar with, searches for a restaurant that delivers <br> -  Phase two: Final, from the menu, she searches for the dishes that contains lamb by selecting the lamb item |
@@ -139,7 +139,7 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 **Task #3**: *Find a dish that you are not familiar with, or was recommended from a food genre that you never had.*
 
-| **Name** | **Results** |
+| Name | Results |
 | --- | --- |
 | Boulanger | - Referred to an unknown cuisine (using the menu of the same name) <br> - Only look at the most popular dishes when the cuisine is unfamiliar, having all the menus is useless |
 | Nunes | -  Phase one: Goes thru phase one of task two expect selects a cuisine shent familiar with <br> - Phase two: searches thru most popular dishes and reads description for ingredients she likes and that she can visualize <br> -- She prefers the convenience of a picture of the dish, instead of googling for it |
@@ -149,7 +149,7 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 **Task #4**: *Figure out what the dish looks like within and outside the app.*
 
-| **Name** | **Results** |
+| Name | Results |
 | --- | --- |
 | Boulanger | - Users don’t know how to do <br> -  No easy way to find out, no way to find out into the app <br> - Would use search engines like Google  |
 | Nunes | - Has no problem with using Safari to search for dish outside of app, but prefer if she could open a web browser within the app or be able to copy text within app <br> - Wishes there were pictures of the dish added to the app on the page of the dish |
@@ -158,18 +158,18 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 **Task #5**: *Pick three different dishes you are familiar with (each in different cuisines)*
 
-| **Name** | **Results** |
+| Name | Results |
 | --- | --- |
-| Boulanger |  |
+| Boulanger | N/A  |
 | Nunes | - She picks the dishes that taste good, are crowd pleasers, and taste the same across different restaurants   |
 | Jie | -  Behaved proficiently in this task and added three familiar food in the shopping cart successfully.<br> - This task had many processes, and she presented a little bit impatience at last few steps. |
 | Kayla | - Easy task, simply searched for food items that she would not have to go out of her comfort zone to order <br> - Found restaurants she was familiar with and trusted, rather than depend on reviews and descriptions |
 
 **Task #6**: *Choose one you would buy*
 
-| **Name** | **Results** |
+| Name | Results |
 | --- | --- |
-| Boulanger |   |
+| Boulanger |  N/A |
 | Nunes |  - Chooses Pizza bc crowd pleaser, easy to warm up, quick delivery  |
 | Jie | － She compared three dishes in the shopping cart and ultimately chose the nearest one, because she mentioned that this task happened at night and she was hungry.  She wanted to receive the food as soon as possible. |
 | Kayla | － Explained it was the safest, and cheapest option |
@@ -177,7 +177,7 @@ Seven (7) tasks were assigned to the participants. Here is a summary of the resu
 
 ### 5.3. <span id="5-3">Errors</span>
 
-Finding out a more precise description of a particular meal
+Finding out a more precise description of a particular meal:
 - Long-press the name of the meal (nothing happens)
 - Click on the name of the meal (redirects to the checkout)
 
@@ -186,11 +186,11 @@ Finding out a more precise description of a particular meal
 
 Here are summarized the participants’ likes, dislikes, and recommendations.
 
-Likes:
+*Likes*:
 - User can order a future delivery at specific time.
 - Some dishes provide ingredient information and pictures.
 
-Dislikes:
+*Dislikes*:
 - The UI of the menus
 - The review function is not obvious
 - Ingredient information and pictures are not unified, some dishes have but some don’t provide.
@@ -200,7 +200,7 @@ Dislikes:
 - Not many options for restaurants locally
 - Delivery fee and minimum order charge narrows down food choices
 
-Recommendations
+*Recommendations*:
 - Add more precise descriptions, with pictures of the meals
 - Use tabs instead of a listing for the menus
 - Reviews become more obvious and provide updating real pictures.
@@ -208,7 +208,7 @@ Recommendations
 
 ### 5.5. <span id="6">Summary</span>
 
-| **Tasks** | **Results** | **Errors/Problems** | **Comments** |
+| Tasks | Results | Errors/Problems | Comments |
 | --- | --- | --- | --- |
 | #1 | All four participants finished this task. They quickly learn basic operations on GrubHub. | One issue with the no presence of local restaurants | |
 | #2 | Two main ways to do a search: one is to use the cuisine tabs (and filters), the other is to directly search for a dish using the search bar. <br>The final selection is made based on the restaurant’s name, rating, and overall aspect of the menu. | | The process can take a while, depending on the selection criteria the user has: find the good balance between price and ratings. |
@@ -221,9 +221,7 @@ Recommendations
 
 Based on what we saw, the results of the user test, and the feedback of the participants, our team recommends the following:
 
-Based on what we saw, the results of the user test, and the feedback of the participants, our team recommends the following:
-
-| **Location/Feature** | **Object/Screenshot** | **Observation/Data** | **Severity**| **Recommendation** |
+| Location/Feature | Object/Screenshot | Observation/Data | Severity | Recommendation |
 | --- | --- | --- | --- | --- |
 | | Items | Users struggle to find description on the different dishes | **High** | Add more detailed descriptions like pictures of the dishes |
 | | Reviews | No pictures are available to “introduce” unfamiliar dishes | **High** | Emphasize the reviews with pictures. Allow users to link a review to a specific dish. |
@@ -231,4 +229,6 @@ Based on what we saw, the results of the user test, and the feedback of the part
 
 ## 7. <span id="8">Conclusion</span>
 
-GrubHub provides most basic functions as a food-delivery application and it is not too difficult for users to find the information they need either within in the application or outside via sources such as Google, Yelp, or the restaurant's webpage. However, GrubHub is not outstanding, because in most of our cases it did not leave a strong positive impression on our users being tested which means other users can and will choose other applications to substitute it. Some functions still need improvements, like user confusion over names of unfamiliar dishes, too many options before adding one dish into the shopping cart or overall user information overload, reviews are not easy in all cases to find and read, visual and textual information in the restaurants menus are not always provided where it would be beneficial to the user.
+GrubHub provides most basic functions as a food-delivery application and it is not too difficult for users to find the information they need either within in the application or outside via sources such as Google, Yelp, or the restaurant's webpage. However, GrubHub is not outstanding, because in most of our cases it did not leave a strong positive impression on our users being tested which means other users can and will choose other applications to substitute it.
+
+Some functions still need improvements, like user confusion over names of unfamiliar dishes, too many options before adding one dish into the shopping cart or overall user information overload, reviews are not easy in all cases to find and read, visual and textual information in the restaurants menus are not always provided where it would be beneficial to the user.

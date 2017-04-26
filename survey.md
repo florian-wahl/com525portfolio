@@ -7,14 +7,14 @@ weight: 5
 # GrubHub Surveys
 
 ## Table of Contents
-* [Goals](#1)
-* [Introduction](#2)
-* [Survey Grid](#3)
-* [Survey Report](#4)
-* [Takeaways](#5)
+1. [Goals](#1)
+2. [Introduction](#2)
+3. [Survey Grid](#3)
+4. [Survey Report](#4)
+5. [Takeaways](#5)
 
 
-## <span id="1">Goals</span>
+## <span id="1">1. Goals</span>
 
 To understand GrubHub’s user profile, and to understand which features that are most needed to be improved.
 
@@ -25,7 +25,7 @@ To understand GrubHub’s user profile, and to understand which features that ar
 5. Investigate whether or not including visual aids such as a photos are useful when ordering food
 
 
-## <span id="2">Introduction</span>
+## <span id="2">2. Introduction</span>
 Thank you for considering to take our GrubHub quality assurance and user test-ability survey.
 
 The purpose of this survey is to enhance GrubHub's mobile application. Your participation in this survey will help us probe and investigate the quality of GrubHub’s mobile app. The results of this survey will help us better understand the needs and desires of GrubHub users. It should take less than 20 minutes to complete.
@@ -34,7 +34,7 @@ All of your answers are confidential and will be used strictly for research base
 
 If you have any questions or comments about this survey, you may include it at the bottom of the survey or mail them to Qi Zhang at [zhangqitydx@gmail.com](mailto:zhangqitydx@gmail.com).
 
-## <span id="3">Survey Grid</span>
+## <span id="3">3. Survey Grid</span>
 
 **Initial question**: Have you ever used GrubHub?
 * **Yes**: proceed with the survey
@@ -42,12 +42,12 @@ If you have any questions or comments about this survey, you may include it at t
 
 <table>
   <tr>
-    <td><b>#</b></td>
-    <td><b>Questions</b></td>
-    <td><b>Instructions</b></td>
-    <td><b>Answers</b></td>
-    <td><b>Reasons</b></td>
-    <td><b>Goals</b></td>
+    <th><b>#</b></th>
+    <th><b>Questions</b></th>
+    <th><b>Instructions</b></th>
+    <th><b>Answers</b></th>
+    <th><b>Reasons</b></th>
+    <th><b>Goals</b></th>
   </tr>
   <tr>
     <td>1</td>
@@ -229,7 +229,7 @@ User interface
 
 <br>
 
-## <span id="4">Survey Report</span>
+## <span id="4">4. Survey Report</span>
 
 Number of exploitable responses: **19**
 
@@ -238,11 +238,11 @@ In the following table is reported the key results and data from the survey resu
 
 <table>
   <tr>
-    <td><b>#</b></td>
-    <td><b>Questions</b></td>
-    <td><b>Goals</b></td>
-    <td><b>Results</b></td>
-    <td><b>Comments</b></td>
+    <th><b>#</b></th>
+    <th><b>Questions</b></th>
+    <th><b>Goals</b></th>
+    <th><b>Results</b></th>
+    <th><b>Comments</b></th>
   </tr>
   <tr>
     <td>1</td>
@@ -404,15 +404,15 @@ Amazon restaurants: 12.5%</td>
 </table>
 
 <br>
-## <span id="5">Takeaways</span>
+## <span id="5">5. Takeaways</span>
 
 Based on the survey results, here are a few takeaways that could use GrubHub:
-- More restaurants that were available, the more the users use the app
-- The main reason of the users using the app is their lack of time to cook. A slight correlation exists between people being busy/working and the person ordering food due to lack of time
-- The price is the key criteria when ordering food
-- Users order an average of three different types of cuisines
-- There is a almost a perfect split between users who do, and do not order from unfamiliar cuisines
-- The key decision criteria when ordering unfamiliar dishes is having a picture
-- Additional information such as the taste and ingredients of a dish could also be helpful for users
-- Users left GrubHub for delivery reasons mainly
-- Users are looking at the cost and convenience when selecting an app to use
+- The more **restaurants available**, the more the users use the app
+- The main reason of the users using the app is their **lack of time to cook**. A slight correlation exists between people being busy/working and the person ordering food due to lack of time
+- The **price** is the key criteria when ordering food
+- Users order an average of **three different types** of cuisines
+- There is a almost a perfect split (50/50) between users who do, and do not, order from unfamiliar cuisines
+- The key decision criteria when ordering unfamiliar dishes is **having a picture**
+- Additional information such as the **taste** or **ingredients** of a dish could also be helpful for users
+- Users left GrubHub for **delivery** (time, fees) reasons mainly
+- Users are looking at the **cost** and **convenience** when choosing an app

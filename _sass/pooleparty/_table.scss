@@ -13,7 +13,11 @@ th {
 }
 
 th {
-  text-align: left;
+  text-align: center;
+  background-color: $main-color !important;
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
 }
 
 tbody tr:nth-child(odd) td,
