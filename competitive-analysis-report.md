@@ -50,7 +50,7 @@ GrubHub has two types of competitors: **direct competitors** which provide the s
 
 ## 2. <span id="2">Flow chart</span>
 The so called “search process” starts with the “launch the app” task and ends when the user is able to “select a dish”.
-   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Grubhub.png" width="50%" height="50%" alt="image2.1"/>
+   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Grubhub.png" style="width: 50%; margin-bottom: 2rem;" alt="image2.1"/>
    <p><center>GrubHub(image 2.1)</center></p>
    
    <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Eat24.png" alt="image2.2"/>
