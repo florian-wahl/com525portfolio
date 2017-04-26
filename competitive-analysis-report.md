@@ -5,9 +5,8 @@ weight: 5
 ---
 <center>
 
-<h1> Competitive Analysis Report </h1>
 <br>
-To realize this competitive analysis report we decided to focus on the “search process” of GrubHub. For the competition, we choose both Eat24 and UberEATS as GrubHub’s direct competitors, and Groupon as indirect competitor. We compared the features around the “search process” of these different products and here are the results below. 
+*To realize this competitive analysis report we decided to focus on the “search process” of GrubHub. For the competition, we choose both Eat24 and UberEATS as GrubHub’s direct competitors, and Groupon as indirect competitor. We compared the features around the “search process” of these different products and here are the results below. 
 </center>
 
 
@@ -51,8 +50,21 @@ GrubHub has two types of competitors: **direct competitors** which provide the s
 
 ## 2. <span id="2">Flow chart</span>
 The so called “search process” starts with the “launch the app” task and ends when the user is able to “select a dish”.
+   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Grubhub.png" alt="image2.1"/>
+   <p><center>GrubHub(image 2.1)</center></p>
+   
+   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Eat24.png" alt="image2.2"/>
+   <p><center>Eat24(image 2.2)</center></p>
+
+   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/ubereat.png" alt="image2.3"/>
+   <p><center>UberEats(image 2.3)</center></p>
+
+   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Groupon.png" alt="image2.4"/>
+   <p><center>Groupon(image 2.4)</center></p>
 
 ## 3. <span id="3">Competitor Analysis Table</span>
+   <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/competitive%20table.png" alt="image3.1"/>
+   <p><center>(image 3.1)</center></p>
 
 ## 4. <span id="4">Takeaways</span>
 From the flow charts and the competitors table above, we can find that most features of the “search process” in the direct competition are similar in comparison to Eat24 and UberEATS, even though the title of features may be different. However, there are still some particular differences we need to analyze and determine whether they are beneficial to aid our future design.
