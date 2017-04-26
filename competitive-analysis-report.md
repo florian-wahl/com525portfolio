@@ -64,7 +64,7 @@ The so called “search process” starts with the “launch the app” task and
    <p><center>(image 3.1)</center></p>
 
 ## 4. <span id="4">Takeaways</span>
-From the flow charts and the competitors table above, we can find that most features of the “search process” in the direct competition are similar in comparison to Eat24 and UberEATS, even though the title of features may be different. However, there are still some particular differences we need to analyze and determine whether they are beneficial to aid our future design.
+From the flow charts and the competitors table above, we can find that most features of the “search process” in the direct competition are similar in comparison to Eat24 and UberEATS, even though the title of features may be different. However, there are still some particular differences we need to analyze and determine whether or not they are beneficial to aid our future design.
 
 **Difference:**
 - Login in UberEATS
