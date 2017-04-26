@@ -3,7 +3,7 @@ layout: page
 title: User Test Report
 weight: 2
 ---
-Your user test report was due **Wednesday Feb 22, 2017**.
+
 
 
 
@@ -23,7 +23,7 @@ Your user test report was due **Wednesday Feb 22, 2017**.
 
 
 ## 1. <span id="1">Introduction / About this report</span>
-This report focuses on the user testing of the GrubHub mobile application. GrubHub is a Chicago based company, founded in 2004.
+This report focuses on user testing of the GrubHub mobile application. GrubHub is a Chicago based company, founded in 2004.
 
 
 According to [GrubHub’s website](https://www.grubhub.com/): *“Grubhub is the nation's leading online and mobile food ordering company dedicated to connecting hungry diners with local takeout restaurants. The company’s online and mobile ordering platforms allow diners to order directly from more than 50,000 takeout restaurants in over 1,100 U.S. cities and London. Every order is supported by the company’s 24/7 customer service teams. Grubhub has offices in Chicago, New York and London.”*
@@ -31,7 +31,7 @@ According to [GrubHub’s website](https://www.grubhub.com/): *“Grubhub is the
 This mobile application allow users to order food for delivery. The selection of restaurants and food is based on their location. The app offers different filters that help users by narrowing down the selection of available restaurants by their prefered food or cuisine. The users can then place the order directly from his or her smartphone or computer to be delivered.
 
 
-Regarding this report, the first part describes the methods applied to the conducted user test, then we will give a description of our participants and a summary of the relevant characteristics. In the third part, we will provide a summary of the results, overall and by tasks, and give the participants feedback. Finally, we will provide recommendations based on our observations and the results of our individual user tests.
+Regarding the user report, the first part describes the methods applied to the conducting the user test; then we will give a description of our participants and a summary of the relevant characteristics. In the third part, we will provide a summary of the results, overall and by tasks, and give the participants feedback. Finally, we will provide recommendations based on our observations and the results of our individual user tests.
 
 ## 2. <span id="2">Executive Summary</span>
 Our group conducted four face-to-face user tests toward GrubHub separately during Feb. 8th to Feb 19th. The purpose of our user tests was to assess the usability of GrubHub, the process of users making orders, and then to retrieve and analyze user experience data. We combined our individual records and data, and then contributed to this final test report towards GrubHub.
