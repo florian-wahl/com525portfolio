@@ -223,9 +223,12 @@ Based on what we saw, the results of the user test, and the feedback of the part
 
 | Location/Feature | Object/Screenshot | Observation/Data | Severity | Recommendation |
 | --- | --- | --- | --- | --- |
-| | Items | Users struggle to find description on the different dishes | **High** | Add more detailed descriptions like pictures of the dishes |
-| | Reviews | No pictures are available to “introduce” unfamiliar dishes | **High** | Emphasize the reviews with pictures. Allow users to link a review to a specific dish. |
-| | List | Too much items | **Medium** | Use table instead |
+| (Image Below)| Items | Users struggle to find description on the different dishes | **High** | Add more detailed descriptions like pictures of the dishes |
+| (Image Below)| Reviews | No pictures are available to “introduce” unfamiliar dishes | **High** | Emphasize the reviews with pictures. Allow users to link a review to a specific dish. |
+| (Image Below)| List | Too much items | **Medium** | Use table instead |
+
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/location.png" style="width: 50%; height: 50%; margin-bottom: 2rem;">
+<p><center>Location and Feature</center></p>
 
 ## 7. <span id="8">Conclusion</span>
 
