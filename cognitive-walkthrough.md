@@ -31,14 +31,14 @@ weight: 6
 
 **Cognitive Walkthrough Table**
 <table>
-  <tr>
-    <td><b>#</b></td>
-    <td><b>Steps</b></td>
-    <td><b>Q1</b></td>
-    <td><b>Q2</b></td>
-    <td><b>Q3</b></td>
-    <td><b>Q4</b></td>
-    <td><b>Notes</b></td>
+<tr>
+    <th><b>#</b></th>
+    <th><b>Steps</b></th>
+    <th><b>Q1</b></th>
+    <th><b>Q2</b></th>
+    <th><b>Q3</b></th>
+    <th><b>Q4</b></th>
+    <th><b>Notes</b></th>
   </tr>
   <tr>
     <td>1</td>
@@ -59,13 +59,13 @@ weight: 6
 
 <table>
   <tr>
-    <td><b>#</b></td>
-    <td><b>Steps</b></td>
-    <td><b>Q1</b></td>
-    <td><b>Q2</b></td>
-    <td><b>Q3</b></td>
-    <td><b>Q4</b></td>
-    <td><b>Notes</b></td>
+    <th><b>#</b></th>
+    <th><b>Steps</b></th>
+    <th><b>Q1</b></th>
+    <th><b>Q2</b></th>
+    <th><b>Q3</b></th>
+    <th><b>Q4</b></th>
+    <th><b>Notes</b></th>
   </tr>
   <tr>
   	<td>2</td>
@@ -89,13 +89,13 @@ weight: 6
 
 <table>
   <tr>
-    <td><b>#</b></td>
-    <td><b>Steps</b></td>
-    <td><b>Q1</b></td>
-    <td><b>Q2</b></td>
-    <td><b>Q3</b></td>
-    <td><b>Q4</b></td>
-    <td><b>Notes</b></td>
+    <th><b>#</b></th>
+    <th><b>Steps</b></th>
+    <th><b>Q1</b></th>
+    <th><b>Q2</b></th>
+    <th><b>Q3</b></th>
+    <th><b>Q4</b></th>
+    <th><b>Notes</b></th>
   </tr>
   <tr>
     <td>3</td>
@@ -116,13 +116,13 @@ weight: 6
 
 <table>
   <tr>
-    <td><b>#</b></td>
-    <td><b>Steps</b></td>
-    <td><b>Q1</b></td>
-    <td><b>Q2</b></td>
-    <td><b>Q3</b></td>
-    <td><b>Q4</b></td>
-    <td><b>Notes</b></td>
+    <th><b>#</b></th>
+    <th><b>Steps</b></th>
+    <th><b>Q1</b></th>
+    <th><b>Q2</b></th>
+    <th><b>Q3</b></th>
+    <th><b>Q4</b></th>
+    <th><b>Notes</b></th>
   </tr>
   <tr>
   	<td>4</td>
@@ -145,13 +145,13 @@ weight: 6
 
 <table>
   <tr>
-    <td><b>#</b></td>
-    <td><b>Steps</b></td>
-    <td><b>Q1</b></td>
-    <td><b>Q2</b></td>
-    <td><b>Q3</b></td>
-    <td><b>Q4</b></td>
-    <td><b>Notes</b></td>
+    <th><b>#</b></th>
+    <th><b>Steps</b></th>
+    <th><b>Q1</b></th>
+    <th><b>Q2</b></th>
+    <th><b>Q3</b></th>
+    <th><b>Q4</b></th>
+    <th><b>Notes</b></th>
   </tr>
   <tr>
   	<td>5</td>
