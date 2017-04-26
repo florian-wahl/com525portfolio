@@ -54,7 +54,7 @@ weight: 6
     <td>I will say that if the user were to expect the results to show a comparative list of Pad Thai dishes, then they would get confused. Instead, the user is given a list of restaurants that offer the dish.  </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.Input%20Pad%20Thai%20in%20search%20the%20bar.PNG" style="width: 35%">
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/1.Input%20Pad%20Thai%20in%20search%20the%20bar.PNG" style="width: 50%; height: 50%; margin-bottom: 2rem;">
 <p><center>(image 1)</center></p>
 
 <table>
@@ -84,7 +84,7 @@ weight: 6
   	<td>  </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" style="width: 35%">
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/2.Use%20the%20filter.PNG" style="width: 50%; height: 50%; margin-bottom: 2rem;">
 <p><center>(image 2)</center></p>
 
 <table>
@@ -111,7 +111,7 @@ weight: 6
     <td>The only concern I could in this step is that there is no certain selection, as in GrubHub does not say for certain the first selection is the nearest, you are to assume or compare on your own accord, and trust that the app is functioning correctly </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="width: 35%"">
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Choose%20the%20nearest%20restaurant.PNG" style="width: 50%; height: 50%; margin-bottom: 2rem;">
 <p><center>(image 3)</center></p>
 
 <table>
@@ -140,7 +140,7 @@ weight: 6
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Select%20the%20Pad%20Thai%20dish.PNG" style="width: 35%">
-<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 35%">
+<img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Scroll%20down%20the%20menu%20to%20find%20Pad%20Thai.PNG" style="width: 50%; height: 50%; margin-bottom: 2rem;">
 <p><center>(image 4 & 4.1)</center></p>
 
 <table>
@@ -169,7 +169,7 @@ weight: 6
   </tr>
  </table>
  <div>
-  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 35%">
+  <img src="https://raw.githubusercontent.com/florian-wahl/com525portfolio/master/public/img/Input%20pad%20thai%20into%20search%20bar.PNG" style="width: 50%; height: 50%; margin-bottom: 2rem;">
   <p><center>(image 4.2)</center></p>
  </div>
 
