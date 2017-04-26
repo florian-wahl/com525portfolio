@@ -5,16 +5,16 @@ weight: 1
 ---
 
 ## Table of Contents
-* [Goals](#1)
-* [Research questions](#2)
-* [Participant characteristics](#3)
-* [Test script](#4)
-* [Task list](#5)
-* [Data and evaluation measures](#6)
+1. [Goals](#1)
+2. [Research questions](#2)
+3. [Participant characteristics](#3)
+4. [Test script](#4)
+5. [Task list](#5)
+6. [Data and evaluation measures](#6)
 
 **The system** : GrubHub Mobile App
 
-## <span id="1">Goals</span>
+## <span id="1">1. Goals</span>
 
 Improve the process of users making orders via the application (e.g. by providing more information about a dish).
 
@@ -22,7 +22,7 @@ Improving the process/Increasing the number of users ordering unknown dishes via
 
 Making the process more transparent between customers and restaurant proprietor.
 
-## <span id="2">Research Questions</span>
+## <span id="2">2. Research Questions</span>
 
 - Do users know what they are ordering? How do users figure out what a particular dish looks like?
 - How would a user find information concerning a dish?
@@ -33,7 +33,7 @@ Making the process more transparent between customers and restaurant proprietor.
 - How easily users find the total ordering process? How is the length of time they spend during ordering process?
 - Do final orders match user original expectations?
 
-## <span id="3">Participant Characteristics</span>
+## <span id="3">3. Participant Characteristics</span>
 
 - Age
 - Gender
@@ -47,7 +47,7 @@ Making the process more transparent between customers and restaurant proprietor.
 - Typically, they are busy, in a rush, they don&#39;t have the time to pick food by themselves.
 
 
-## <span id="4">Test Script</span>
+## <span id="4">4. Test Script</span>
 
 ### Participation introduction & consent:
 
@@ -109,11 +109,11 @@ Once again, I&#39;d like to say thanks for coming today. Your efforts help us to
 
 Do you have any questions or comments for our test now that we&#39;re done?
 
-## <span id="5">Tasks List</span>
+## <span id="5">5. Tasks List</span>
 
 **Scenario** : It is dinner time. You are at the point where you are hungry, but at the same time you are really busy, and simply do not have the time to pick up some food. You decide the best route would be to order food for delivery. To do so, you pickup your smartphone and load up the GrubHub app.
 
-| **#** | **Task** | **Data** |
+| # | Task | Data |
 | --- | --- | --- |
 | 1 | Spend about 5 minutes playing with the app and get used to it and explain to us what you think of it and the conveniences that this app provides. Who do you think GrubHub is made for? | First usability, opinions, first impressions |
 | 2 | Pick a dish you are familiar with, find a restaurant that provides the dish you are looking for, and find out how much the entire order will cost you. | Ease of use for a basic task: <br> -- What were the details of the criteria you used to make your decision? (e.g. flavor, location, price, rating, reviews)|
@@ -123,7 +123,7 @@ Do you have any questions or comments for our test now that we&#39;re done?
 | 6 | Choose one you would buy | -- Why this decision?|
 | 7 | Repeat the same with dishes you  are not familiar with (each in different cuisines)| -- Walk us through you decision making <br> -- What information triggered the decision?|
 
-## <span id="6">Data &amp; Evaluations measures</span>
+## <span id="6">6. Data &amp; Evaluations measures</span>
 
 In order to answer the research questions, we will collect both performance and preference data during the test sessions:
 
@@ -135,10 +135,9 @@ In order to answer the research questions, we will collect both performance and 
 - Time to finish each task.
 - Time of staying each page.
 
-**Preference Measure:**
+**Preference Measures:**
 
-Ratings and rational concerning:
-
+Ratings and rational concerning
 - Usefulness of the product.
 - How well does the product meet with participants&#39; expectations.
 - Ease of use overall.
